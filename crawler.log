@@ -1,0 +1,685 @@
+2025-05-01 23:40:29,644 [INFO] Chrome WebDriver initiated successfully.
+2025-05-01 23:40:43,026 [INFO] Opened collections page 1: https://modesens.cn/collections/?page=1
+2025-05-01 23:40:44,181 [INFO] Found 73 products on page 1.
+2025-05-01 23:40:44,197 [WARNING] Product : cover image not found (Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=135.0.7049.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF755BAEFA5+77893]
+	GetHandleVerifier [0x00007FF755BAF000+77984]
+	(No symbol) [0x00007FF7559791BA]
+	(No symbol) [0x00007FF7559CF16D]
+	(No symbol) [0x00007FF7559CF41C]
+	(No symbol) [0x00007FF7559C1B1C]
+	(No symbol) [0x00007FF7559F716F]
+	(No symbol) [0x00007FF7559C19E6]
+	(No symbol) [0x00007FF7559F7340]
+	(No symbol) [0x00007FF755A1F07F]
+	(No symbol) [0x00007FF7559F6F03]
+	(No symbol) [0x00007FF7559C0328]
+	(No symbol) [0x00007FF7559C1093]
+	GetHandleVerifier [0x00007FF755E67B6D+2931725]
+	GetHandleVerifier [0x00007FF755E62132+2908626]
+	GetHandleVerifier [0x00007FF755E800F3+3031443]
+	GetHandleVerifier [0x00007FF755BC91EA+184970]
+	GetHandleVerifier [0x00007FF755BD086F+215311]
+	GetHandleVerifier [0x00007FF755BB6EC4+110436]
+	GetHandleVerifier [0x00007FF755BB7072+110866]
+	GetHandleVerifier [0x00007FF755B9D479+5401]
+	BaseThreadInitThunk [0x00007FFE876EE8D7+23]
+	RtlUserThreadStart [0x00007FFE887514FC+44]
+)
+2025-05-01 23:40:44,197 [INFO] Product : Cover image URL = 
+2025-05-01 23:40:56,096 [INFO] Opened product page for ID  (https://modesens.cn/product/tranlink/?link=https%3A%2F%2Fwww.revolve.com%2Fcontent%2Fproducts%2Feditorial)
+2025-05-01 23:40:56,244 [INFO] Product : Found 6 availability links.
+2025-05-01 23:42:56,377 [INFO] ====== WebDriver manager ======
+2025-05-01 23:42:57,854 [INFO] Get LATEST chromedriver version for google-chrome
+2025-05-01 23:42:57,926 [INFO] Get LATEST chromedriver version for google-chrome
+2025-05-01 23:42:57,997 [INFO] Driver [C:\Users\pengy\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-01 23:42:59,112 [INFO] Fetching collections page 1: https://modesens.cn/collections/?page=1
+2025-05-01 23:43:13,532 [INFO] Found 73 product links on page 1
+2025-05-01 23:43:14,615 [INFO] Visiting product  -> https://modesens.cn/product/tranlink/?link=https%3A%2F%2Fwww.revolve.com%2Fcontent%2Fproducts%2Feditorial
+2025-05-01 23:43:29,624 [ERROR] Could not load product page https://modesens.cn/product/tranlink/?link=https%3A%2F%2Fwww.revolve.com%2Fcontent%2Fproducts%2Feditorial: Message: timeout: Timed out receiving message from renderer: 14.801
+  (Session info: chrome=135.0.7049.115)
+Stacktrace:
+	GetHandleVerifier [0x0055D363+60275]
+	GetHandleVerifier [0x0055D3A4+60340]
+	(No symbol) [0x003906F3]
+	(No symbol) [0x0038126B]
+	(No symbol) [0x00380FA1]
+	(No symbol) [0x0037EF80]
+	(No symbol) [0x0037FA3D]
+	(No symbol) [0x0038BFE9]
+	(No symbol) [0x0039D745]
+	(No symbol) [0x003A2FE6]
+	(No symbol) [0x0038004D]
+	(No symbol) [0x0039D4EE]
+	(No symbol) [0x0041EA07]
+	(No symbol) [0x003FCE86]
+	(No symbol) [0x003CC623]
+	(No symbol) [0x003CD474]
+	GetHandleVerifier [0x007A8FE3+2467827]
+	GetHandleVerifier [0x007A45E6+2448886]
+	GetHandleVerifier [0x007BF80C+2560028]
+	GetHandleVerifier [0x00573DF5+153093]
+	GetHandleVerifier [0x0057A3BD+179149]
+	GetHandleVerifier [0x00564BB8+91080]
+	GetHandleVerifier [0x00564D60+91504]
+	GetHandleVerifier [0x0054FA10+4640]
+	BaseThreadInitThunk [0x76875D49+25]
+	RtlInitializeExceptionChain [0x7789CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7789CE91+561]
+
+2025-05-01 23:43:29,624 [INFO] Visiting product  -> https://modesens.cn/product/tranlink/?link=https%3A%2F%2Fwww.revolve.com%2F
+2025-05-01 23:43:45,275 [INFO] Visiting product  -> https://modesens.cn/product/tranlink/?link=https%3A%2F%2Fwww.fwrd.com%2F
+2025-05-01 23:44:04,894 [INFO] Visiting product  -> https://modesens.cn/product/tranlink/?link=https%3A%2F%2Fwww.mytheresa.com%2Fus%2Fen%2Fwomen%2Fdesigner-private-sale
+2025-05-01 23:44:20,207 [WARNING] Blocked on product page https://modesens.cn/product/tranlink/?link=https%3A%2F%2Fwww.mytheresa.com%2Fus%2Fen%2Fwomen%2Fdesigner-private-sale. Skipping availability.
+2025-05-01 23:44:22,151 [INFO] Visiting product  -> https://modesens.cn/product/tranlink/?link=https%3A%2F%2Fwww.mytheresa.com%2Fus%2Fen%2Fkids%2Fprivate-sale
+2025-05-01 23:44:28,006 [WARNING] Blocked on product page https://modesens.cn/product/tranlink/?link=https%3A%2F%2Fwww.mytheresa.com%2Fus%2Fen%2Fkids%2Fprivate-sale. Skipping availability.
+2025-05-01 23:44:29,773 [INFO] Visiting product 90366454 -> https://modesens.cn/product/farm-rio-embroidered-pineapple-maxi-dress-swim-cover-up-blue-90366454/
+2025-05-01 23:44:34,835 [WARNING] Blocked on product page https://modesens.cn/product/farm-rio-embroidered-pineapple-maxi-dress-swim-cover-up-blue-90366454/. Skipping availability.
+2025-05-01 23:44:35,945 [INFO] Visiting product 110579648 -> https://modesens.cn/product/farm-rio-white-shirt-with-short-sleeves-in-techno-fabric-woman-multi-110579648/
+2025-05-01 23:44:41,312 [WARNING] Blocked on product page https://modesens.cn/product/farm-rio-white-shirt-with-short-sleeves-in-techno-fabric-woman-multi-110579648/. Skipping availability.
+2025-05-01 23:44:43,114 [INFO] Visiting product 112143858 -> https://modesens.cn/product/farm-rio-orange-piping-details-long-sleeve-blouse-112143858/
+2025-05-01 23:44:47,881 [WARNING] Blocked on product page https://modesens.cn/product/farm-rio-orange-piping-details-long-sleeve-blouse-112143858/. Skipping availability.
+2025-05-01 23:44:49,499 [INFO] Visiting product 110739564 -> https://modesens.cn/product/dolce-gabbana-black-stretch-lace-belt-110739564/
+2025-05-01 23:44:58,192 [WARNING] Blocked on product page https://modesens.cn/product/dolce-gabbana-black-stretch-lace-belt-110739564/. Skipping availability.
+2025-05-01 23:44:59,630 [INFO] Visiting product 102750025 -> https://modesens.cn/product/valentino-medium-blue-jeans-with-green-embroidery-straight-leg-high-waist-102750025/
+2025-05-01 23:45:14,643 [ERROR] Could not load product page https://modesens.cn/product/valentino-medium-blue-jeans-with-green-embroidery-straight-leg-high-waist-102750025/: Message: timeout: Timed out receiving message from renderer: 11.165
+  (Session info: chrome=135.0.7049.115)
+Stacktrace:
+	GetHandleVerifier [0x0055D363+60275]
+	GetHandleVerifier [0x0055D3A4+60340]
+	(No symbol) [0x003906F3]
+	(No symbol) [0x0038126B]
+	(No symbol) [0x00380FA1]
+	(No symbol) [0x0037EF80]
+	(No symbol) [0x0037FA3D]
+	(No symbol) [0x0038BFE9]
+	(No symbol) [0x0039D745]
+	(No symbol) [0x003A2FE6]
+	(No symbol) [0x0038004D]
+	(No symbol) [0x0039D4EE]
+	(No symbol) [0x0041EA07]
+	(No symbol) [0x003FCE86]
+	(No symbol) [0x003CC623]
+	(No symbol) [0x003CD474]
+	GetHandleVerifier [0x007A8FE3+2467827]
+	GetHandleVerifier [0x007A45E6+2448886]
+	GetHandleVerifier [0x007BF80C+2560028]
+	GetHandleVerifier [0x00573DF5+153093]
+	GetHandleVerifier [0x0057A3BD+179149]
+	GetHandleVerifier [0x00564BB8+91080]
+	GetHandleVerifier [0x00564D60+91504]
+	GetHandleVerifier [0x0054FA10+4640]
+	BaseThreadInitThunk [0x76875D49+25]
+	RtlInitializeExceptionChain [0x7789CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7789CE91+561]
+
+2025-05-01 23:45:14,643 [INFO] Visiting product 111371741 -> https://modesens.cn/product/valentino-ruffled-wool-and-silk-blend-crepe-mini-dress-white-111371741/
+2025-05-01 23:45:28,528 [WARNING] Blocked on product page https://modesens.cn/product/valentino-ruffled-wool-and-silk-blend-crepe-mini-dress-white-111371741/. Skipping availability.
+2025-05-01 23:45:30,097 [INFO] Visiting product 110675341 -> https://modesens.cn/product/dolce-gabbana-black-midi-skirt-with-all-over-floral-print-in-silk-stretch-woman-multi-110675341/
+2025-05-01 23:45:45,102 [ERROR] Could not load product page https://modesens.cn/product/dolce-gabbana-black-midi-skirt-with-all-over-floral-print-in-silk-stretch-woman-multi-110675341/: Message: timeout: Timed out receiving message from renderer: 13.166
+  (Session info: chrome=135.0.7049.115)
+Stacktrace:
+	GetHandleVerifier [0x0055D363+60275]
+	GetHandleVerifier [0x0055D3A4+60340]
+	(No symbol) [0x003906F3]
+	(No symbol) [0x0038126B]
+	(No symbol) [0x00380FA1]
+	(No symbol) [0x0037EF80]
+	(No symbol) [0x0037FA3D]
+	(No symbol) [0x0038BFE9]
+	(No symbol) [0x0039D745]
+	(No symbol) [0x003A2FE6]
+	(No symbol) [0x0038004D]
+	(No symbol) [0x0039D4EE]
+	(No symbol) [0x0041EA07]
+	(No symbol) [0x003FCE86]
+	(No symbol) [0x003CC623]
+	(No symbol) [0x003CD474]
+	GetHandleVerifier [0x007A8FE3+2467827]
+	GetHandleVerifier [0x007A45E6+2448886]
+	GetHandleVerifier [0x007BF80C+2560028]
+	GetHandleVerifier [0x00573DF5+153093]
+	GetHandleVerifier [0x0057A3BD+179149]
+	GetHandleVerifier [0x00564BB8+91080]
+	GetHandleVerifier [0x00564D60+91504]
+	GetHandleVerifier [0x0054FA10+4640]
+	BaseThreadInitThunk [0x76875D49+25]
+	RtlInitializeExceptionChain [0x7789CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7789CE91+561]
+
+2025-05-01 23:45:45,102 [INFO] Visiting product 111076673 -> https://modesens.cn/product/burberry-white-sleeveless-top-with-ruched-details-and-ties-with-check-motiv-in-cotton-blend-woman-111076673/
+2025-05-01 23:46:00,104 [ERROR] Could not load product page https://modesens.cn/product/burberry-white-sleeveless-top-with-ruched-details-and-ties-with-check-motiv-in-cotton-blend-woman-111076673/: Message: timeout: Timed out receiving message from renderer: 13.363
+  (Session info: chrome=135.0.7049.115)
+Stacktrace:
+	GetHandleVerifier [0x0055D363+60275]
+	GetHandleVerifier [0x0055D3A4+60340]
+	(No symbol) [0x003906F3]
+	(No symbol) [0x0038126B]
+	(No symbol) [0x00380FA1]
+	(No symbol) [0x0037EF80]
+	(No symbol) [0x0037FA3D]
+	(No symbol) [0x0038BFE9]
+	(No symbol) [0x0039D745]
+	(No symbol) [0x003A2FE6]
+	(No symbol) [0x0038004D]
+	(No symbol) [0x0039D4EE]
+	(No symbol) [0x0041EA07]
+	(No symbol) [0x003FCE86]
+	(No symbol) [0x003CC623]
+	(No symbol) [0x003CD474]
+	GetHandleVerifier [0x007A8FE3+2467827]
+	GetHandleVerifier [0x007A45E6+2448886]
+	GetHandleVerifier [0x007BF80C+2560028]
+	GetHandleVerifier [0x00573DF5+153093]
+	GetHandleVerifier [0x0057A3BD+179149]
+	GetHandleVerifier [0x00564BB8+91080]
+	GetHandleVerifier [0x00564D60+91504]
+	GetHandleVerifier [0x0054FA10+4640]
+	BaseThreadInitThunk [0x76875D49+25]
+	RtlInitializeExceptionChain [0x7789CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7789CE91+561]
+
+2025-05-01 23:46:00,104 [INFO] Visiting product 102768785 -> https://modesens.cn/product/valentino-crepe-couture-jacke-frau-elfenbein-50-beige-102768785/
+2025-05-01 23:46:06,202 [WARNING] Blocked on product page https://modesens.cn/product/valentino-crepe-couture-jacke-frau-elfenbein-50-beige-102768785/. Skipping availability.
+2025-05-01 23:46:08,180 [INFO] Visiting product 112264209 -> https://modesens.cn/product/burberry-embroidered-canvas-ballerinas-beige-112264209/
+2025-05-01 23:46:15,413 [WARNING] Blocked on product page https://modesens.cn/product/burberry-embroidered-canvas-ballerinas-beige-112264209/. Skipping availability.
+2025-05-01 23:46:16,827 [INFO] Visiting product 110585492 -> https://modesens.cn/product/dolce-gabbana-pink-crewneck-dress-with-logo-lettering-detail-on-the-front-and-all-over-floral-motif-in-cotton-woma-multi-110585492/
+2025-05-01 23:46:26,097 [WARNING] Blocked on product page https://modesens.cn/product/dolce-gabbana-pink-crewneck-dress-with-logo-lettering-detail-on-the-front-and-all-over-floral-motif-in-cotton-woma-multi-110585492/. Skipping availability.
+2025-05-01 23:46:27,144 [INFO] Visiting product 107084490 -> https://modesens.cn/product/burberry-womens-baby-check-print-knitted-ballerina-flats-beige-comb-eur-40-7-uk-107084490/
+2025-05-01 23:46:32,430 [WARNING] Blocked on product page https://modesens.cn/product/burberry-womens-baby-check-print-knitted-ballerina-flats-beige-comb-eur-40-7-uk-107084490/. Skipping availability.
+2025-05-01 23:46:33,954 [INFO] Visiting product 111189142 -> https://modesens.cn/product/burberry-corduroy-collar-canvas-jacket-with-flap-pockets-beige-111189142/
+2025-05-01 23:46:40,590 [WARNING] Blocked on product page https://modesens.cn/product/burberry-corduroy-collar-canvas-jacket-with-flap-pockets-beige-111189142/. Skipping availability.
+2025-05-01 23:46:42,172 [INFO] Visiting product 84017530 -> https://modesens.cn/product/burberry-equestrian-knight-embroidered-leather-ballerina-shoes-black-84017530/
+2025-05-01 23:46:47,242 [WARNING] Blocked on product page https://modesens.cn/product/burberry-equestrian-knight-embroidered-leather-ballerina-shoes-black-84017530/. Skipping availability.
+2025-05-01 23:46:48,749 [INFO] Visiting product 110519529 -> https://modesens.cn/product/dolce-gabbana-pink-crop-top-with-all-over-printed-floral-motif-in-cotton-blend-woman-multi-110519529/
+2025-05-01 23:46:56,354 [WARNING] Blocked on product page https://modesens.cn/product/dolce-gabbana-pink-crop-top-with-all-over-printed-floral-motif-in-cotton-blend-woman-multi-110519529/. Skipping availability.
+2025-05-01 23:46:58,136 [INFO] Visiting product 111371909 -> https://modesens.cn/product/valentino-garavani-chromathon-low-top-sneakers-in-perforated-leather-multi-111371909/
+2025-05-01 23:47:05,094 [WARNING] Blocked on product page https://modesens.cn/product/valentino-garavani-chromathon-low-top-sneakers-in-perforated-leather-multi-111371909/. Skipping availability.
+2025-05-01 23:47:06,654 [INFO] Visiting product 110722652 -> https://modesens.cn/product/valentino-womens-regular-fit-brand-print-cotton-jersey-t-shirt-avorio-blu-elettrico-white-110722652/
+2025-05-01 23:47:12,892 [WARNING] Blocked on product page https://modesens.cn/product/valentino-womens-regular-fit-brand-print-cotton-jersey-t-shirt-avorio-blu-elettrico-white-110722652/. Skipping availability.
+2025-05-01 23:47:14,267 [INFO] Visiting product 102768798 -> https://modesens.cn/product/valentino-v-logo-print-cotton-jersey-t-shirt-white-102768798/
+2025-05-01 23:47:23,622 [WARNING] Blocked on product page https://modesens.cn/product/valentino-v-logo-print-cotton-jersey-t-shirt-white-102768798/. Skipping availability.
+2025-05-01 23:47:24,824 [INFO] Visiting product 108503937 -> https://modesens.cn/product/valentino-printed-cotton-jersey-t-shirt-red-108503937/
+2025-05-01 23:47:32,241 [WARNING] Blocked on product page https://modesens.cn/product/valentino-printed-cotton-jersey-t-shirt-red-108503937/. Skipping availability.
+2025-05-01 23:47:33,514 [INFO] Visiting product 111595014 -> https://modesens.cn/product/burberry-check-wool-blend-chemisier-dress-beige-111595014/
+2025-05-01 23:47:38,635 [WARNING] Blocked on product page https://modesens.cn/product/burberry-check-wool-blend-chemisier-dress-beige-111595014/. Skipping availability.
+2025-05-01 23:47:40,520 [INFO] Visiting product 87722416 -> https://modesens.cn/product/dolce-gabbana-pink-slide-sandals-with-cut-out-logo-in-leather-woman-87722416/
+2025-05-01 23:47:45,470 [WARNING] Blocked on product page https://modesens.cn/product/dolce-gabbana-pink-slide-sandals-with-cut-out-logo-in-leather-woman-87722416/. Skipping availability.
+2025-05-01 23:47:46,660 [INFO] Visiting product 112109796 -> https://modesens.cn/product/valentino-garavani-upvillage-leather-sneakers-pink-112109796/
+2025-05-01 23:47:53,060 [WARNING] Blocked on product page https://modesens.cn/product/valentino-garavani-upvillage-leather-sneakers-pink-112109796/. Skipping availability.
+2025-05-01 23:47:54,506 [INFO] Visiting product 110850844 -> https://modesens.cn/product/dolce-gabbana-mixed-material-dg-cushion-sneakers-white-110850844/
+2025-05-01 23:48:01,196 [WARNING] Blocked on product page https://modesens.cn/product/dolce-gabbana-mixed-material-dg-cushion-sneakers-white-110850844/. Skipping availability.
+2025-05-01 23:48:02,659 [INFO] Visiting product 87300302 -> https://modesens.cn/product/valentino-garavani-rockstud-caged-leather-ankle-strap-sandal-black-87300302/
+2025-05-01 23:48:07,410 [WARNING] Blocked on product page https://modesens.cn/product/valentino-garavani-rockstud-caged-leather-ankle-strap-sandal-black-87300302/. Skipping availability.
+2025-05-01 23:48:09,115 [INFO] Visiting product 95744857 -> https://modesens.cn/product/the-row-frances-silk-jacquard-slippers-black-95744857/
+2025-05-01 23:48:13,866 [WARNING] Blocked on product page https://modesens.cn/product/the-row-frances-silk-jacquard-slippers-black-95744857/. Skipping availability.
+2025-05-01 23:48:15,345 [INFO] Visiting product 113970900 -> https://modesens.cn/product/valentino-garavani-denim-mini-skirt-with-jacquard-trim-blue-113970900/
+2025-05-01 23:48:21,268 [WARNING] Blocked on product page https://modesens.cn/product/valentino-garavani-denim-mini-skirt-with-jacquard-trim-blue-113970900/. Skipping availability.
+2025-05-01 23:48:22,391 [INFO] Visiting product 112254834 -> https://modesens.cn/product/valentino-garavani-blue-denim-cotton-skirt-medium-blue-112254834/
+2025-05-01 23:48:37,398 [ERROR] Could not load product page https://modesens.cn/product/valentino-garavani-blue-denim-cotton-skirt-medium-blue-112254834/: Message: timeout: Timed out receiving message from renderer: 12.310
+  (Session info: chrome=135.0.7049.115)
+Stacktrace:
+	GetHandleVerifier [0x0055D363+60275]
+	GetHandleVerifier [0x0055D3A4+60340]
+	(No symbol) [0x003906F3]
+	(No symbol) [0x0038126B]
+	(No symbol) [0x00380FA1]
+	(No symbol) [0x0037EF80]
+	(No symbol) [0x0037FA3D]
+	(No symbol) [0x0038BFE9]
+	(No symbol) [0x0039D745]
+	(No symbol) [0x003A2FE6]
+	(No symbol) [0x0038004D]
+	(No symbol) [0x0039D4EE]
+	(No symbol) [0x0041EA07]
+	(No symbol) [0x003FCE86]
+	(No symbol) [0x003CC623]
+	(No symbol) [0x003CD474]
+	GetHandleVerifier [0x007A8FE3+2467827]
+	GetHandleVerifier [0x007A45E6+2448886]
+	GetHandleVerifier [0x007BF80C+2560028]
+	GetHandleVerifier [0x00573DF5+153093]
+	GetHandleVerifier [0x0057A3BD+179149]
+	GetHandleVerifier [0x00564BB8+91080]
+	GetHandleVerifier [0x00564D60+91504]
+	GetHandleVerifier [0x0054FA10+4640]
+	BaseThreadInitThunk [0x76875D49+25]
+	RtlInitializeExceptionChain [0x7789CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7789CE91+561]
+
+2025-05-01 23:48:37,398 [INFO] Visiting product 100358629 -> https://modesens.cn/product/burberry-brown-check-wool-cashmere-scarf-miniskirt-multi-100358629/
+2025-05-01 23:48:43,657 [WARNING] Blocked on product page https://modesens.cn/product/burberry-brown-check-wool-cashmere-scarf-miniskirt-multi-100358629/. Skipping availability.
+2025-05-01 23:48:45,012 [INFO] Visiting product 91339246 -> https://modesens.cn/product/valentino-garavani-rockstud-biker-knee-high-leather-boots-black-91339246/
+2025-05-01 23:48:52,953 [WARNING] Blocked on product page https://modesens.cn/product/valentino-garavani-rockstud-biker-knee-high-leather-boots-black-91339246/. Skipping availability.
+2025-05-01 23:48:54,682 [INFO] Visiting product 111076453 -> https://modesens.cn/product/burberry-long-multicolor-pleated-skirt-with-check-motif-in-wool-blend-woman-green-111076453/
+2025-05-01 23:49:09,696 [ERROR] Could not load product page https://modesens.cn/product/burberry-long-multicolor-pleated-skirt-with-check-motif-in-wool-blend-woman-green-111076453/: Message: timeout: Timed out receiving message from renderer: 13.070
+  (Session info: chrome=135.0.7049.115)
+Stacktrace:
+	GetHandleVerifier [0x0055D363+60275]
+	GetHandleVerifier [0x0055D3A4+60340]
+	(No symbol) [0x003906F3]
+	(No symbol) [0x0038126B]
+	(No symbol) [0x00380FA1]
+	(No symbol) [0x0037EF80]
+	(No symbol) [0x0037FA3D]
+	(No symbol) [0x0038BFE9]
+	(No symbol) [0x0039D745]
+	(No symbol) [0x003A2FE6]
+	(No symbol) [0x0038004D]
+	(No symbol) [0x0039D4EE]
+	(No symbol) [0x0041EA07]
+	(No symbol) [0x003FCE86]
+	(No symbol) [0x003CC623]
+	(No symbol) [0x003CD474]
+	GetHandleVerifier [0x007A8FE3+2467827]
+	GetHandleVerifier [0x007A45E6+2448886]
+	GetHandleVerifier [0x007BF80C+2560028]
+	GetHandleVerifier [0x00573DF5+153093]
+	GetHandleVerifier [0x0057A3BD+179149]
+	GetHandleVerifier [0x00564BB8+91080]
+	GetHandleVerifier [0x00564D60+91504]
+	GetHandleVerifier [0x0054FA10+4640]
+	BaseThreadInitThunk [0x76875D49+25]
+	RtlInitializeExceptionChain [0x7789CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7789CE91+561]
+
+2025-05-01 23:49:09,696 [INFO] Visiting product 105070402 -> https://modesens.cn/product/burberry-logo-printed-short-sleeved-t-shirt-black-105070402/
+2025-05-01 23:49:20,649 [WARNING] Blocked on product page https://modesens.cn/product/burberry-logo-printed-short-sleeved-t-shirt-black-105070402/. Skipping availability.
+2025-05-01 23:49:22,040 [INFO] Visiting product 108188134 -> https://modesens.cn/product/norma-kamali-abito-lungo-monospalla-con-spacco-bronzo-scintillante-brown-108188134/
+2025-05-01 23:49:28,057 [WARNING] Blocked on product page https://modesens.cn/product/norma-kamali-abito-lungo-monospalla-con-spacco-bronzo-scintillante-brown-108188134/. Skipping availability.
+2025-05-01 23:49:29,972 [INFO] Visiting product 111261363 -> https://modesens.cn/product/dolce-gabbana-multicolor-long-dress-with-all-over-floral-print-in-cotton-woman-111261363/
+2025-05-01 23:49:38,025 [WARNING] Blocked on product page https://modesens.cn/product/dolce-gabbana-multicolor-long-dress-with-all-over-floral-print-in-cotton-woman-111261363/. Skipping availability.
+2025-05-01 23:49:39,091 [INFO] Visiting product 110967759 -> https://modesens.cn/product/valentino-round-neck-logo-embroidered-t-shirt-avoriorosso-110967759/
+2025-05-01 23:49:44,542 [WARNING] Blocked on product page https://modesens.cn/product/valentino-round-neck-logo-embroidered-t-shirt-avoriorosso-110967759/. Skipping availability.
+2025-05-01 23:49:46,017 [INFO] Visiting product 110450892 -> https://modesens.cn/product/the-row-essentials-chiara-cotton-jersey-t-shirt-black-110450892/
+2025-05-01 23:49:50,173 [WARNING] Blocked on product page https://modesens.cn/product/the-row-essentials-chiara-cotton-jersey-t-shirt-black-110450892/. Skipping availability.
+2025-05-01 23:49:51,909 [INFO] Visiting product 111925913 -> https://modesens.cn/product/dolce-gabbana-wool-and-silk-blazer-with-jewel-buttons-black-111925913/
+2025-05-01 23:49:56,407 [WARNING] Blocked on product page https://modesens.cn/product/dolce-gabbana-wool-and-silk-blazer-with-jewel-buttons-black-111925913/. Skipping availability.
+2025-05-01 23:49:58,025 [INFO] Visiting product 110896635 -> https://modesens.cn/product/valentino-garavani-butter-white-and-black-synthetic-slides-with-wide-strap-multi-110896635/
+2025-05-01 23:50:02,458 [WARNING] Blocked on product page https://modesens.cn/product/valentino-garavani-butter-white-and-black-synthetic-slides-with-wide-strap-multi-110896635/. Skipping availability.
+2025-05-01 23:50:03,632 [INFO] Visiting product 111371614 -> https://modesens.cn/product/valentino-garavani-rockstud-leather-sandals-black-111371614/
+2025-05-01 23:50:08,008 [WARNING] Blocked on product page https://modesens.cn/product/valentino-garavani-rockstud-leather-sandals-black-111371614/. Skipping availability.
+2025-05-01 23:50:09,249 [INFO] Visiting product 111261362 -> https://modesens.cn/product/dolce-gabbana-multicolor-crop-shirt-with-all-over-floral-motif-and-logo-lettering-detail-on-the-front-in-cotton-wo-111261362/
+2025-05-01 23:50:14,782 [WARNING] Blocked on product page https://modesens.cn/product/dolce-gabbana-multicolor-crop-shirt-with-all-over-floral-motif-and-logo-lettering-detail-on-the-front-in-cotton-wo-111261362/. Skipping availability.
+2025-05-01 23:50:16,005 [INFO] Visiting product 97074648 -> https://modesens.cn/product/magda-butrym-rosette-one-shoulder-stretch-silk-top-multicolor-97074648/
+2025-05-01 23:50:20,337 [WARNING] Blocked on product page https://modesens.cn/product/magda-butrym-rosette-one-shoulder-stretch-silk-top-multicolor-97074648/. Skipping availability.
+2025-05-01 23:50:21,441 [INFO] Visiting product 87887203 -> https://modesens.cn/product/burberry-mini-shield-sling-leather-shoulder-bag-white-87887203/
+2025-05-01 23:50:25,891 [WARNING] Blocked on product page https://modesens.cn/product/burberry-mini-shield-sling-leather-shoulder-bag-white-87887203/. Skipping availability.
+2025-05-01 23:50:27,718 [INFO] Visiting product 102749998 -> https://modesens.cn/product/valentino-garavani-bowow-45-bow-embellished-leather-pumps-white-102749998/
+2025-05-01 23:50:32,514 [WARNING] Blocked on product page https://modesens.cn/product/valentino-garavani-bowow-45-bow-embellished-leather-pumps-white-102749998/. Skipping availability.
+2025-05-01 23:50:34,454 [INFO] Visiting product 109117810 -> https://modesens.cn/product/valentino-belted-button-down-denim-shirt-blue-109117810/
+2025-05-01 23:50:49,466 [ERROR] Could not load product page https://modesens.cn/product/valentino-belted-button-down-denim-shirt-blue-109117810/: Message: timeout: Timed out receiving message from renderer: 13.688
+  (Session info: chrome=135.0.7049.115)
+Stacktrace:
+	GetHandleVerifier [0x0055D363+60275]
+	GetHandleVerifier [0x0055D3A4+60340]
+	(No symbol) [0x003906F3]
+	(No symbol) [0x0038126B]
+	(No symbol) [0x00380FA1]
+	(No symbol) [0x0037EF80]
+	(No symbol) [0x0037FA3D]
+	(No symbol) [0x0038BFE9]
+	(No symbol) [0x0039D745]
+	(No symbol) [0x003A2FE6]
+	(No symbol) [0x0038004D]
+	(No symbol) [0x0039D4EE]
+	(No symbol) [0x0041EA07]
+	(No symbol) [0x003FCE86]
+	(No symbol) [0x003CC623]
+	(No symbol) [0x003CD474]
+	GetHandleVerifier [0x007A8FE3+2467827]
+	GetHandleVerifier [0x007A45E6+2448886]
+	GetHandleVerifier [0x007BF80C+2560028]
+	GetHandleVerifier [0x00573DF5+153093]
+	GetHandleVerifier [0x0057A3BD+179149]
+	GetHandleVerifier [0x00564BB8+91080]
+	GetHandleVerifier [0x00564D60+91504]
+	GetHandleVerifier [0x0054FA10+4640]
+	BaseThreadInitThunk [0x76875D49+25]
+	RtlInitializeExceptionChain [0x7789CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7789CE91+561]
+
+2025-05-01 23:50:49,467 [INFO] Visiting product 108162286 -> https://modesens.cn/product/burberry-intarsia-knit-wool-and-cashmere-blend-sweater-beige-108162286/
+2025-05-01 23:50:55,290 [WARNING] Blocked on product page https://modesens.cn/product/burberry-intarsia-knit-wool-and-cashmere-blend-sweater-beige-108162286/. Skipping availability.
+2025-05-01 23:50:56,969 [INFO] Visiting product 87263168 -> https://modesens.cn/product/burberry-embroidered-padded-quilted-shell-mini-skirt-beige-87263168/
+2025-05-01 23:51:02,437 [WARNING] Blocked on product page https://modesens.cn/product/burberry-embroidered-padded-quilted-shell-mini-skirt-beige-87263168/. Skipping availability.
+2025-05-01 23:51:03,849 [INFO] Visiting product 111117287 -> https://modesens.cn/product/dolce-gabbana-white-rose-print-cotton-shorts-multi-111117287/
+2025-05-01 23:51:09,902 [WARNING] Blocked on product page https://modesens.cn/product/dolce-gabbana-white-rose-print-cotton-shorts-multi-111117287/. Skipping availability.
+2025-05-01 23:51:11,518 [INFO] Visiting product 105580853 -> https://modesens.cn/product/valentino-embellished-wool-and-silk-blend-crepe-mini-skirt-white-105580853/
+2025-05-01 23:51:19,833 [WARNING] Blocked on product page https://modesens.cn/product/valentino-embellished-wool-and-silk-blend-crepe-mini-skirt-white-105580853/. Skipping availability.
+2025-05-01 23:51:21,543 [INFO] Visiting product 108061561 -> https://modesens.cn/product/valentino-womens-striped-embroidered-cotton-jersey-t-shirt-avorio-blu-108061561/
+2025-05-01 23:51:26,521 [WARNING] Blocked on product page https://modesens.cn/product/valentino-womens-striped-embroidered-cotton-jersey-t-shirt-avorio-blu-108061561/. Skipping availability.
+2025-05-01 23:51:28,208 [INFO] Visiting product 66234434 -> https://modesens.cn/product/staud-wells-pleated-cotton-blend-poplin-mini-dress-hibiscus-66234434/
+2025-05-01 23:51:34,333 [WARNING] Blocked on product page https://modesens.cn/product/staud-wells-pleated-cotton-blend-poplin-mini-dress-hibiscus-66234434/. Skipping availability.
+2025-05-01 23:51:35,812 [INFO] Visiting product 28673818 -> https://modesens.cn/product/dolce-gabbana-multicolor-maxi-skirt-with-logo-lettering-detail-on-the-front-and-all-over-floral-print-in-cotton-wo-28673818/
+2025-05-01 23:51:53,139 [WARNING] Blocked on product page https://modesens.cn/product/dolce-gabbana-multicolor-maxi-skirt-with-logo-lettering-detail-on-the-front-and-all-over-floral-print-in-cotton-wo-28673818/. Skipping availability.
+2025-05-01 23:51:54,622 [INFO] Visiting product 110915627 -> https://modesens.cn/product/staud-white-long-sleeved-basic-t-shirt-with-cuffs-in-lyocell-blend-man-110915627/
+2025-05-01 23:52:00,428 [WARNING] Blocked on product page https://modesens.cn/product/staud-white-long-sleeved-basic-t-shirt-with-cuffs-in-lyocell-blend-man-110915627/. Skipping availability.
+2025-05-01 23:52:02,402 [INFO] Visiting product 107558007 -> https://modesens.cn/product/dolce-gabbana-floral-print-cotton-blend-poplin-mini-dress-white-107558007/
+2025-05-01 23:52:07,606 [WARNING] Blocked on product page https://modesens.cn/product/dolce-gabbana-floral-print-cotton-blend-poplin-mini-dress-white-107558007/. Skipping availability.
+2025-05-01 23:52:09,551 [INFO] Visiting product 111924249 -> https://modesens.cn/product/valentino-plusdepois-print-chiffon-top-with-handmade-draping-and-bow-detail-multi-111924249/
+2025-05-01 23:52:17,544 [WARNING] Blocked on product page https://modesens.cn/product/valentino-plusdepois-print-chiffon-top-with-handmade-draping-and-bow-detail-multi-111924249/. Skipping availability.
+2025-05-01 23:52:19,199 [INFO] Visiting product 14350404 -> https://modesens.cn/product/burberry-net-sustain-checked-poplin-trimmed-cotton-jersey-t-shirt-black-14350404/
+2025-05-01 23:52:30,447 [WARNING] Blocked on product page https://modesens.cn/product/burberry-net-sustain-checked-poplin-trimmed-cotton-jersey-t-shirt-black-14350404/. Skipping availability.
+2025-05-01 23:52:32,256 [INFO] Visiting product 109673405 -> https://modesens.cn/product/burberry-beige-check-linen-blend-mews-high-mules-multi-109673405/
+2025-05-01 23:52:37,642 [WARNING] Blocked on product page https://modesens.cn/product/burberry-beige-check-linen-blend-mews-high-mules-multi-109673405/. Skipping availability.
+2025-05-01 23:52:39,385 [INFO] Visiting product 111924054 -> https://modesens.cn/product/dolce-gabbana-portofino-low-top-leather-sneakers-with-lateral-monogram-white-111924054/
+2025-05-01 23:52:44,572 [WARNING] Blocked on product page https://modesens.cn/product/dolce-gabbana-portofino-low-top-leather-sneakers-with-lateral-monogram-white-111924054/. Skipping availability.
+2025-05-01 23:52:46,211 [INFO] Visiting product 110856350 -> https://modesens.cn/product/dolce-gabbana-ballerinas-in-shiny-calfskin-red-110856350/
+2025-05-01 23:52:50,953 [WARNING] Blocked on product page https://modesens.cn/product/dolce-gabbana-ballerinas-in-shiny-calfskin-red-110856350/. Skipping availability.
+2025-05-01 23:52:52,425 [INFO] Visiting product 109864839 -> https://modesens.cn/product/valentino-garavani-bowow-45-two-tone-metallic-leather-and-moire-slingback-pumps-black-109864839/
+2025-05-01 23:52:57,142 [WARNING] Blocked on product page https://modesens.cn/product/valentino-garavani-bowow-45-two-tone-metallic-leather-and-moire-slingback-pumps-black-109864839/. Skipping availability.
+2025-05-01 23:52:58,494 [INFO] Visiting product 110784440 -> https://modesens.cn/product/burberry-vintage-check-bucket-shoulder-bag-beige-110784440/
+2025-05-01 23:53:06,552 [WARNING] Blocked on product page https://modesens.cn/product/burberry-vintage-check-bucket-shoulder-bag-beige-110784440/. Skipping availability.
+2025-05-01 23:53:08,317 [INFO] Visiting product 110851850 -> https://modesens.cn/product/valentino-garavani-plaster-caster-fringed-studded-suede-loafers-brown-110851850/
+2025-05-01 23:53:12,751 [WARNING] Blocked on product page https://modesens.cn/product/valentino-garavani-plaster-caster-fringed-studded-suede-loafers-brown-110851850/. Skipping availability.
+2025-05-01 23:53:14,020 [INFO] Visiting product 111998912 -> https://modesens.cn/product/valentino-garavani-valet-du-roi-kid-slingback-ballerina-25mmm-multi-111998912/
+2025-05-01 23:53:24,275 [WARNING] Blocked on product page https://modesens.cn/product/valentino-garavani-valet-du-roi-kid-slingback-ballerina-25mmm-multi-111998912/. Skipping availability.
+2025-05-01 23:53:25,371 [INFO] Visiting product 110602583 -> https://modesens.cn/product/valentino-garavani-impudance-leather-and-mesh-slingback-pumps-red-110602583/
+2025-05-01 23:53:33,932 [WARNING] Blocked on product page https://modesens.cn/product/valentino-garavani-impudance-leather-and-mesh-slingback-pumps-red-110602583/. Skipping availability.
+2025-05-01 23:53:35,300 [INFO] Visiting product 111853244 -> https://modesens.cn/product/valentino-bow-embellished-polka-dot-silk-shantung-jacket-beige-111853244/
+2025-05-01 23:53:41,820 [WARNING] Blocked on product page https://modesens.cn/product/valentino-bow-embellished-polka-dot-silk-shantung-jacket-beige-111853244/. Skipping availability.
+2025-05-01 23:53:43,746 [INFO] Visiting product 46920343 -> https://modesens.cn/product/burberry-logo-print-organic-cotton-t-shirt-white-46920343/
+2025-05-01 23:53:51,702 [WARNING] Blocked on product page https://modesens.cn/product/burberry-logo-print-organic-cotton-t-shirt-white-46920343/. Skipping availability.
+2025-05-01 23:53:53,448 [INFO] Visiting product 97074796 -> https://modesens.cn/product/magda-butrym-crochet-flower-embellished-lace-up-sandals-red-97074796/
+2025-05-01 23:54:00,336 [WARNING] Blocked on product page https://modesens.cn/product/magda-butrym-crochet-flower-embellished-lace-up-sandals-red-97074796/. Skipping availability.
+2025-05-01 23:54:01,638 [INFO] Visiting product 106547491 -> https://modesens.cn/product/dolce-gabbana-sneakers-portofino-white-106547491/
+2025-05-01 23:54:07,288 [WARNING] Blocked on product page https://modesens.cn/product/dolce-gabbana-sneakers-portofino-white-106547491/. Skipping availability.
+2025-05-01 23:54:08,779 [INFO] Visiting product 106676311 -> https://modesens.cn/product/valentino-garavani-vlogo-locker-patent-leather-mary-jane-flats-black-106676311/
+2025-05-01 23:54:13,348 [WARNING] Blocked on product page https://modesens.cn/product/valentino-garavani-vlogo-locker-patent-leather-mary-jane-flats-black-106676311/. Skipping availability.
+2025-05-01 23:54:15,300 [INFO] Visiting product 101670593 -> https://modesens.cn/product/the-row-woman-black-sneakers-101670593/
+2025-05-01 23:54:20,051 [WARNING] Blocked on product page https://modesens.cn/product/the-row-woman-black-sneakers-101670593/. Skipping availability.
+2025-05-01 23:54:21,082 [INFO] Fetching collections page 2: https://modesens.cn/collections/?page=2
+2025-05-01 23:54:25,819 [INFO] Found 73 product links on page 2
+2025-05-01 23:54:26,948 [INFO] Visiting product  -> https://modesens.cn/product/tranlink/?link=https%3A%2F%2Fwww.revolve.com%2Fcontent%2Fproducts%2Feditorial
+2025-05-01 23:54:38,689 [INFO] Visiting product  -> https://modesens.cn/product/tranlink/?link=https%3A%2F%2Fwww.revolve.com%2F
+2025-05-01 23:54:45,570 [INFO] Visiting product  -> https://modesens.cn/product/tranlink/?link=https%3A%2F%2Fwww.fwrd.com%2F
+2025-05-01 23:54:52,796 [INFO] Visiting product  -> https://modesens.cn/product/tranlink/?link=https%3A%2F%2Fcaracaranyc.com%2Fcollections%2FSELECT30
+2025-05-01 23:54:58,750 [WARNING] Blocked on product page https://modesens.cn/product/tranlink/?link=https%3A%2F%2Fcaracaranyc.com%2Fcollections%2FSELECT30. Skipping availability.
+2025-05-01 23:54:59,877 [INFO] Visiting product  -> https://modesens.cn/product/tranlink/?link=https%3A%2F%2Fwww.robertocavalli.com%2Fen-us%2Farchive-vault%2F
+2025-05-01 23:55:08,712 [WARNING] Blocked on product page https://modesens.cn/product/tranlink/?link=https%3A%2F%2Fwww.robertocavalli.com%2Fen-us%2Farchive-vault%2F. Skipping availability.
+2025-05-01 23:55:09,767 [INFO] Visiting product 87995951 -> https://modesens.cn/product/toteme-black-the-knitted-ballerina-flats-87995951/
+2025-05-01 23:55:16,492 [WARNING] Blocked on product page https://modesens.cn/product/toteme-black-the-knitted-ballerina-flats-87995951/. Skipping availability.
+2025-05-01 23:55:17,682 [INFO] Visiting product 108944783 -> https://modesens.cn/product/the-row-black-nappa-leather-lace-up-shoes-108944783/
+2025-05-01 23:55:22,700 [WARNING] Blocked on product page https://modesens.cn/product/the-row-black-nappa-leather-lace-up-shoes-108944783/. Skipping availability.
+2025-05-01 23:55:23,843 [INFO] Visiting product 104674543 -> https://modesens.cn/product/burberry-brown-small-check-tote-bag-multi-104674543/
+2025-05-01 23:55:30,037 [WARNING] Blocked on product page https://modesens.cn/product/burberry-brown-small-check-tote-bag-multi-104674543/. Skipping availability.
+2025-05-01 23:55:31,108 [INFO] Visiting product 109045716 -> https://modesens.cn/product/toteme-women-oak-melange-wool-felt-jacket-with-zip-loose-fit-grey-109045716/
+2025-05-01 23:55:39,243 [WARNING] Blocked on product page https://modesens.cn/product/toteme-women-oak-melange-wool-felt-jacket-with-zip-loose-fit-grey-109045716/. Skipping availability.
+2025-05-01 23:55:40,675 [INFO] Visiting product 21867537 -> https://modesens.cn/product/toteme-monogram-embroidered-silk-pajama-top-ivory-monogram-21867537/
+2025-05-01 23:55:45,813 [WARNING] Blocked on product page https://modesens.cn/product/toteme-monogram-embroidered-silk-pajama-top-ivory-monogram-21867537/. Skipping availability.
+2025-05-01 23:55:47,170 [INFO] Visiting product 64886790 -> https://modesens.cn/product/agolde-net-sustain-hilla-frayed-organic-denim-maxi-skirt-fragment-64886790/
+2025-05-01 23:55:53,036 [WARNING] Blocked on product page https://modesens.cn/product/agolde-net-sustain-hilla-frayed-organic-denim-maxi-skirt-fragment-64886790/. Skipping availability.
+2025-05-01 23:55:54,824 [INFO] Visiting product 90867006 -> https://modesens.cn/product/burberry-check-ekd-drawstring-pull-on-shorts-sand-check-90867006/
+2025-05-01 23:56:03,628 [WARNING] Blocked on product page https://modesens.cn/product/burberry-check-ekd-drawstring-pull-on-shorts-sand-check-90867006/. Skipping availability.
+2025-05-01 23:56:05,152 [INFO] Visiting product 110772499 -> https://modesens.cn/product/burberry-pleated-checked-wool-midi-wrap-skirt-green-110772499/
+2025-05-01 23:56:11,122 [WARNING] Blocked on product page https://modesens.cn/product/burberry-pleated-checked-wool-midi-wrap-skirt-green-110772499/. Skipping availability.
+2025-05-01 23:56:12,297 [INFO] Visiting product 111372052 -> https://modesens.cn/product/valentino-womens-nero-avorio-tweed-check-print-wool-blend-mini-skirt-multi-111372052/
+2025-05-01 23:56:18,884 [WARNING] Blocked on product page https://modesens.cn/product/valentino-womens-nero-avorio-tweed-check-print-wool-blend-mini-skirt-multi-111372052/. Skipping availability.
+2025-05-01 23:56:20,135 [INFO] Visiting product 111989462 -> https://modesens.cn/product/valentino-satin-trimmed-cutout-ruffled-metallic-printed-silk-blend-chiffon-blouse-neutrals-111989462/
+2025-05-01 23:56:30,567 [WARNING] Blocked on product page https://modesens.cn/product/valentino-satin-trimmed-cutout-ruffled-metallic-printed-silk-blend-chiffon-blouse-neutrals-111989462/. Skipping availability.
+2025-05-01 23:56:32,090 [INFO] Visiting product 90071948 -> https://modesens.cn/product/staud-bella-pleated-cotton-blend-poplin-midi-dress-black-90071948/
+2025-05-01 23:56:37,052 [WARNING] Blocked on product page https://modesens.cn/product/staud-bella-pleated-cotton-blend-poplin-midi-dress-black-90071948/. Skipping availability.
+2025-05-01 23:56:38,812 [INFO] Visiting product 111924814 -> https://modesens.cn/product/farm-rio-cotton-dress-with-multicolor-print-cashew-mandala-cream-111924814/
+2025-05-01 23:56:53,156 [WARNING] Blocked on product page https://modesens.cn/product/farm-rio-cotton-dress-with-multicolor-print-cashew-mandala-cream-111924814/. Skipping availability.
+2025-05-01 23:56:54,375 [INFO] Visiting product 102728244 -> https://modesens.cn/product/valentino-peter-pan-collared-ruffle-bib-mini-dress-pink-102728244/
+2025-05-01 23:56:58,999 [WARNING] Blocked on product page https://modesens.cn/product/valentino-peter-pan-collared-ruffle-bib-mini-dress-pink-102728244/. Skipping availability.
+2025-05-01 23:57:00,779 [INFO] Visiting product 109853396 -> https://modesens.cn/product/dolce-gabbana-polka-dot-print-draped-tulle-midi-dress-black-109853396/
+2025-05-01 23:57:05,876 [WARNING] Blocked on product page https://modesens.cn/product/dolce-gabbana-polka-dot-print-draped-tulle-midi-dress-black-109853396/. Skipping availability.
+2025-05-01 23:57:07,303 [INFO] Visiting product 107487704 -> https://modesens.cn/product/la-doublej-muumuu-oversized-printed-silk-twill-maxi-dress-pink-107487704/
+2025-05-01 23:57:11,889 [WARNING] Blocked on product page https://modesens.cn/product/la-doublej-muumuu-oversized-printed-silk-twill-maxi-dress-pink-107487704/. Skipping availability.
+2025-05-01 23:57:13,505 [INFO] Visiting product 103527773 -> https://modesens.cn/product/valentino-women-t-shirts-and-polos-black-103527773/
+2025-05-01 23:57:26,392 [WARNING] Blocked on product page https://modesens.cn/product/valentino-women-t-shirts-and-polos-black-103527773/. Skipping availability.
+2025-05-01 23:57:27,828 [INFO] Visiting product 97390527 -> https://modesens.cn/product/toteme-dress-toteme-woman-color-black-97390527/
+2025-05-01 23:57:34,137 [WARNING] Blocked on product page https://modesens.cn/product/toteme-dress-toteme-woman-color-black-97390527/. Skipping availability.
+2025-05-01 23:57:35,831 [INFO] Visiting product 105436130 -> https://modesens.cn/product/dolce-gabbana-maiolica-printed-silk-twill-shirt-multi-105436130/
+2025-05-01 23:57:50,846 [ERROR] Could not load product page https://modesens.cn/product/dolce-gabbana-maiolica-printed-silk-twill-shirt-multi-105436130/: Message: timeout: Timed out receiving message from renderer: 13.365
+  (Session info: chrome=135.0.7049.115)
+Stacktrace:
+	GetHandleVerifier [0x0055D363+60275]
+	GetHandleVerifier [0x0055D3A4+60340]
+	(No symbol) [0x003906F3]
+	(No symbol) [0x0038126B]
+	(No symbol) [0x00380FA1]
+	(No symbol) [0x0037EF80]
+	(No symbol) [0x0037FA3D]
+	(No symbol) [0x0038BFE9]
+	(No symbol) [0x0039D745]
+	(No symbol) [0x003A2FE6]
+	(No symbol) [0x0038004D]
+	(No symbol) [0x0039D4EE]
+	(No symbol) [0x0041EA07]
+	(No symbol) [0x003FCE86]
+	(No symbol) [0x003CC623]
+	(No symbol) [0x003CD474]
+	GetHandleVerifier [0x007A8FE3+2467827]
+	GetHandleVerifier [0x007A45E6+2448886]
+	GetHandleVerifier [0x007BF80C+2560028]
+	GetHandleVerifier [0x00573DF5+153093]
+	GetHandleVerifier [0x0057A3BD+179149]
+	GetHandleVerifier [0x00564BB8+91080]
+	GetHandleVerifier [0x00564D60+91504]
+	GetHandleVerifier [0x0054FA10+4640]
+	BaseThreadInitThunk [0x76875D49+25]
+	RtlInitializeExceptionChain [0x7789CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7789CE91+561]
+
+2025-05-01 23:57:50,846 [INFO] Visiting product 108033002 -> https://modesens.cn/product/valentino-logo-plaque-three-quarter-sleeved-blouse-lavander-108033002/
+2025-05-01 23:57:59,827 [WARNING] Blocked on product page https://modesens.cn/product/valentino-logo-plaque-three-quarter-sleeved-blouse-lavander-108033002/. Skipping availability.
+2025-05-01 23:58:01,298 [INFO] Visiting product 111910806 -> https://modesens.cn/product/farm-rio-swan-lake-guipure-lace-button-up-shirt-multicolor-111910806/
+2025-05-01 23:58:16,311 [ERROR] Could not load product page https://modesens.cn/product/farm-rio-swan-lake-guipure-lace-button-up-shirt-multicolor-111910806/: Message: timeout: Timed out receiving message from renderer: 13.876
+  (Session info: chrome=135.0.7049.115)
+Stacktrace:
+	GetHandleVerifier [0x0055D363+60275]
+	GetHandleVerifier [0x0055D3A4+60340]
+	(No symbol) [0x003906F3]
+	(No symbol) [0x0038126B]
+	(No symbol) [0x00380FA1]
+	(No symbol) [0x0037EF80]
+	(No symbol) [0x0037FA3D]
+	(No symbol) [0x0038BFE9]
+	(No symbol) [0x0039D745]
+	(No symbol) [0x003A2FE6]
+	(No symbol) [0x0038004D]
+	(No symbol) [0x0039D4EE]
+	(No symbol) [0x0041EA07]
+	(No symbol) [0x003FCE86]
+	(No symbol) [0x003CC623]
+	(No symbol) [0x003CD474]
+	GetHandleVerifier [0x007A8FE3+2467827]
+	GetHandleVerifier [0x007A45E6+2448886]
+	GetHandleVerifier [0x007BF80C+2560028]
+	GetHandleVerifier [0x00573DF5+153093]
+	GetHandleVerifier [0x0057A3BD+179149]
+	GetHandleVerifier [0x00564BB8+91080]
+	GetHandleVerifier [0x00564D60+91504]
+	GetHandleVerifier [0x0054FA10+4640]
+	BaseThreadInitThunk [0x76875D49+25]
+	RtlInitializeExceptionChain [0x7789CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7789CE91+561]
+
+2025-05-01 23:58:16,311 [INFO] Visiting product 93751618 -> https://modesens.cn/product/dolce-gabbana-bianca-logo-embossed-cutout-leather-slides-black-93751618/
+2025-05-01 23:58:22,075 [WARNING] Blocked on product page https://modesens.cn/product/dolce-gabbana-bianca-logo-embossed-cutout-leather-slides-black-93751618/. Skipping availability.
+2025-05-01 23:58:23,703 [INFO] Visiting product 110554511 -> https://modesens.cn/product/valentino-cotton-hoodie-with-print-black-110554511/
+2025-05-01 23:58:29,506 [WARNING] Blocked on product page https://modesens.cn/product/valentino-cotton-hoodie-with-print-black-110554511/. Skipping availability.
+2025-05-01 23:58:31,025 [INFO] Visiting product 108251855 -> https://modesens.cn/product/valentino-garavani-valentino-viva-superstar-vlogo-canvas-sliders-naturaletobacco-108251855/
+2025-05-01 23:58:35,669 [WARNING] Blocked on product page https://modesens.cn/product/valentino-garavani-valentino-viva-superstar-vlogo-canvas-sliders-naturaletobacco-108251855/. Skipping availability.
+2025-05-01 23:58:36,705 [INFO] Visiting product 106660557 -> https://modesens.cn/product/khaite-black-loop-kitten-heel-heeled-sandals-106660557/
+2025-05-01 23:58:41,281 [WARNING] Blocked on product page https://modesens.cn/product/khaite-black-loop-kitten-heel-heeled-sandals-106660557/. Skipping availability.
+2025-05-01 23:58:42,412 [INFO] Visiting product 65445002 -> https://modesens.cn/product/khaite-the-scarlet-wide-sleeves-cardigan-white-65445002/
+2025-05-01 23:58:47,414 [WARNING] Blocked on product page https://modesens.cn/product/khaite-the-scarlet-wide-sleeves-cardigan-white-65445002/. Skipping availability.
+2025-05-01 23:58:49,194 [INFO] Visiting product 108752519 -> https://modesens.cn/product/norma-kamali-kamali-kulture-shirred-waist-jumpsuit-black-108752519/
+2025-05-01 23:58:54,686 [WARNING] Blocked on product page https://modesens.cn/product/norma-kamali-kamali-kulture-shirred-waist-jumpsuit-black-108752519/. Skipping availability.
+2025-05-01 23:58:55,935 [INFO] Visiting product 105465877 -> https://modesens.cn/product/khaite-selly-collared-v-neck-silk-top-pink-105465877/
+2025-05-01 23:59:02,362 [WARNING] Blocked on product page https://modesens.cn/product/khaite-selly-collared-v-neck-silk-top-pink-105465877/. Skipping availability.
+2025-05-01 23:59:03,516 [INFO] Visiting product 107244844 -> https://modesens.cn/product/dolce-gabbana-multicolor-short-dress-with-all-over-floral-print-in-cotton-woman-107244844/
+2025-05-01 23:59:08,511 [WARNING] Blocked on product page https://modesens.cn/product/dolce-gabbana-multicolor-short-dress-with-all-over-floral-print-in-cotton-woman-107244844/. Skipping availability.
+2025-05-01 23:59:09,745 [INFO] Visiting product 111100030 -> https://modesens.cn/product/dolce-gabbana-leather-mary-jane-ballet-flats-with-ruched-design-black-111100030/
+2025-05-01 23:59:15,889 [WARNING] Blocked on product page https://modesens.cn/product/dolce-gabbana-leather-mary-jane-ballet-flats-with-ruched-design-black-111100030/. Skipping availability.
+2025-05-01 23:59:17,832 [INFO] Visiting product 110939594 -> https://modesens.cn/product/valentino-garavani-black-enamel-and-metal-coeur-royal-earrings-oronero-110939594/
+2025-05-01 23:59:21,873 [WARNING] Blocked on product page https://modesens.cn/product/valentino-garavani-black-enamel-and-metal-coeur-royal-earrings-oronero-110939594/. Skipping availability.
+2025-05-01 23:59:23,764 [INFO] Visiting product 108572856 -> https://modesens.cn/product/magda-butrym-black-top-with-pink-shoulder-detail-108572856/
+2025-05-01 23:59:32,610 [WARNING] Blocked on product page https://modesens.cn/product/magda-butrym-black-top-with-pink-shoulder-detail-108572856/. Skipping availability.
+2025-05-01 23:59:34,346 [INFO] Visiting product 111910908 -> https://modesens.cn/product/magda-butrym-classic-3d-flower-silk-blouse-red-111910908/
+2025-05-01 23:59:39,053 [WARNING] Blocked on product page https://modesens.cn/product/magda-butrym-classic-3d-flower-silk-blouse-red-111910908/. Skipping availability.
+2025-05-01 23:59:40,377 [INFO] Visiting product 55373197 -> https://modesens.cn/product/dolce-gabbana-intarsia-knit-logo-virgin-wool-jumper-black-55373197/
+2025-05-01 23:59:47,213 [WARNING] Blocked on product page https://modesens.cn/product/dolce-gabbana-intarsia-knit-logo-virgin-wool-jumper-black-55373197/. Skipping availability.
+2025-05-01 23:59:48,512 [INFO] Visiting product 23093107 -> https://modesens.cn/product/burberry-roxby-diamond-quilted-mid-length-coat-black-23093107/
+2025-05-01 23:59:57,328 [WARNING] Blocked on product page https://modesens.cn/product/burberry-roxby-diamond-quilted-mid-length-coat-black-23093107/. Skipping availability.
+2025-05-01 23:59:58,946 [INFO] Visiting product 103854682 -> https://modesens.cn/product/the-row-mica-cashmere-nylon-sneakers-beige-103854682/
+2025-05-02 00:00:06,561 [WARNING] Blocked on product page https://modesens.cn/product/the-row-mica-cashmere-nylon-sneakers-beige-103854682/. Skipping availability.
+2025-05-02 00:00:08,502 [INFO] Visiting product 111189312 -> https://modesens.cn/product/dolce-gabbana-satin-pumps-platform-sole-round-toe-bow-detail-black-111189312/
+2025-05-02 00:00:22,814 [WARNING] Blocked on product page https://modesens.cn/product/dolce-gabbana-satin-pumps-platform-sole-round-toe-bow-detail-black-111189312/. Skipping availability.
+2025-05-02 00:00:24,801 [INFO] Visiting product 111764279 -> https://modesens.cn/product/valentino-garavani-foliefoliage-dorsay-heeled-sandals-85-black-111764279/
+2025-05-02 00:00:31,688 [WARNING] Blocked on product page https://modesens.cn/product/valentino-garavani-foliefoliage-dorsay-heeled-sandals-85-black-111764279/. Skipping availability.
+2025-05-02 00:00:33,173 [INFO] Visiting product 111372011 -> https://modesens.cn/product/valentino-garavani-women-jacket-with-bow-provence-blue-111372011/
+2025-05-02 00:00:48,182 [ERROR] Could not load product page https://modesens.cn/product/valentino-garavani-women-jacket-with-bow-provence-blue-111372011/: Message: timeout: Timed out receiving message from renderer: 13.764
+  (Session info: chrome=135.0.7049.115)
+Stacktrace:
+	GetHandleVerifier [0x0055D363+60275]
+	GetHandleVerifier [0x0055D3A4+60340]
+	(No symbol) [0x003906F3]
+	(No symbol) [0x0038126B]
+	(No symbol) [0x00380FA1]
+	(No symbol) [0x0037EF80]
+	(No symbol) [0x0037FA3D]
+	(No symbol) [0x0038BFE9]
+	(No symbol) [0x0039D745]
+	(No symbol) [0x003A2FE6]
+	(No symbol) [0x0038004D]
+	(No symbol) [0x0039D4EE]
+	(No symbol) [0x0041EA07]
+	(No symbol) [0x003FCE86]
+	(No symbol) [0x003CC623]
+	(No symbol) [0x003CD474]
+	GetHandleVerifier [0x007A8FE3+2467827]
+	GetHandleVerifier [0x007A45E6+2448886]
+	GetHandleVerifier [0x007BF80C+2560028]
+	GetHandleVerifier [0x00573DF5+153093]
+	GetHandleVerifier [0x0057A3BD+179149]
+	GetHandleVerifier [0x00564BB8+91080]
+	GetHandleVerifier [0x00564D60+91504]
+	GetHandleVerifier [0x0054FA10+4640]
+	BaseThreadInitThunk [0x76875D49+25]
+	RtlInitializeExceptionChain [0x7789CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7789CE91+561]
+
+2025-05-02 00:00:48,182 [INFO] Visiting product 111461339 -> https://modesens.cn/product/valentino-high-rise-straight-jeans-blue-111461339/
+2025-05-02 00:01:03,593 [WARNING] Blocked on product page https://modesens.cn/product/valentino-high-rise-straight-jeans-blue-111461339/. Skipping availability.
+2025-05-02 00:01:05,180 [INFO] Visiting product 104360809 -> https://modesens.cn/product/burberry-stretch-linen-check-mews-mules-65-multi-104360809/
+2025-05-02 00:01:15,941 [WARNING] Blocked on product page https://modesens.cn/product/burberry-stretch-linen-check-mews-mules-65-multi-104360809/. Skipping availability.
+2025-05-02 00:01:17,060 [INFO] Visiting product 111019406 -> https://modesens.cn/product/dolce-gabbana-portofino-perforated-logo-leather-sneakers-white-111019406/
+2025-05-02 00:01:24,008 [WARNING] Blocked on product page https://modesens.cn/product/dolce-gabbana-portofino-perforated-logo-leather-sneakers-white-111019406/. Skipping availability.
+2025-05-02 00:01:25,955 [INFO] Visiting product 7298931 -> https://modesens.cn/product/burberry-checked-poplin-trimmed-cotton-jersey-t-shirt-white-7298931/
+2025-05-02 00:01:35,849 [WARNING] Blocked on product page https://modesens.cn/product/burberry-checked-poplin-trimmed-cotton-jersey-t-shirt-white-7298931/. Skipping availability.
+2025-05-02 00:01:37,620 [INFO] Visiting product 111474062 -> https://modesens.cn/product/burberry-chain-print-collared-button-front-shirt-multi-111474062/
+2025-05-02 00:01:42,775 [WARNING] Blocked on product page https://modesens.cn/product/burberry-chain-print-collared-button-front-shirt-multi-111474062/. Skipping availability.
+2025-05-02 00:01:43,804 [INFO] Visiting product 84587949 -> https://modesens.cn/product/valentino-garavani-upvillage-bicolor-stripe-low-top-sneakers-beige-84587949/
+2025-05-02 00:01:48,531 [WARNING] Blocked on product page https://modesens.cn/product/valentino-garavani-upvillage-bicolor-stripe-low-top-sneakers-beige-84587949/. Skipping availability.
+2025-05-02 00:01:50,093 [INFO] Visiting product 108904671 -> https://modesens.cn/product/valentino-garavani-ladycrush-85-crystal-embellished-metallic-leather-pumps-gold-108904671/
+2025-05-02 00:01:55,139 [WARNING] Blocked on product page https://modesens.cn/product/valentino-garavani-ladycrush-85-crystal-embellished-metallic-leather-pumps-gold-108904671/. Skipping availability.
+2025-05-02 00:01:57,132 [INFO] Visiting product 106631101 -> https://modesens.cn/product/toteme-women-wool-and-cashmere-long-coat-grey-106631101/
+2025-05-02 00:02:04,957 [WARNING] Blocked on product page https://modesens.cn/product/toteme-women-wool-and-cashmere-long-coat-grey-106631101/. Skipping availability.
+2025-05-02 00:02:06,837 [INFO] Visiting product 109638061 -> https://modesens.cn/product/toteme-net-sustain-signature-wool-blend-coat-brown-109638061/
+2025-05-02 00:02:14,699 [WARNING] Blocked on product page https://modesens.cn/product/toteme-net-sustain-signature-wool-blend-coat-brown-109638061/. Skipping availability.
+2025-05-02 00:02:15,730 [INFO] Visiting product 77177458 -> https://modesens.cn/product/the-row-flynn-leather-slip-on-loafers-black-77177458/
+2025-05-02 00:02:20,601 [WARNING] Blocked on product page https://modesens.cn/product/the-row-flynn-leather-slip-on-loafers-black-77177458/. Skipping availability.
+2025-05-02 00:02:22,383 [INFO] Visiting product 109228366 -> https://modesens.cn/product/dolce-gabbana-multicolor-shirt-with-oversize-pointed-collar-and-all-over-floral-motif-in-silk-stretch-woman-109228366/
+2025-05-02 00:02:28,347 [WARNING] Blocked on product page https://modesens.cn/product/dolce-gabbana-multicolor-shirt-with-oversize-pointed-collar-and-all-over-floral-motif-in-silk-stretch-woman-109228366/. Skipping availability.
+2025-05-02 00:02:30,161 [INFO] Visiting product 18850185 -> https://modesens.cn/product/khaite-the-scarlet-cashmere-blend-cardigan-black-18850185/
+2025-05-02 00:02:36,307 [WARNING] Blocked on product page https://modesens.cn/product/khaite-the-scarlet-cashmere-blend-cardigan-black-18850185/. Skipping availability.
+2025-05-02 00:02:37,593 [INFO] Visiting product 107150046 -> https://modesens.cn/product/dolce-gabbana-piink-leather-millennials-flats-powder-107150046/
+2025-05-02 00:02:41,770 [WARNING] Blocked on product page https://modesens.cn/product/dolce-gabbana-piink-leather-millennials-flats-powder-107150046/. Skipping availability.
+2025-05-02 00:02:42,888 [INFO] Visiting product 28001680 -> https://modesens.cn/product/agolde-poppy-ribbed-stretch-organic-cotton-and-tencel-blend-jersey-tank-beetle-28001680/
+2025-05-02 00:02:49,108 [WARNING] Blocked on product page https://modesens.cn/product/agolde-poppy-ribbed-stretch-organic-cotton-and-tencel-blend-jersey-tank-beetle-28001680/. Skipping availability.
+2025-05-02 00:02:51,022 [INFO] Visiting product 57050250 -> https://modesens.cn/product/agolde-90s-crop-midrise-loose-straight-jeans-invention-57050250/
+2025-05-02 00:02:57,144 [WARNING] Blocked on product page https://modesens.cn/product/agolde-90s-crop-midrise-loose-straight-jeans-invention-57050250/. Skipping availability.
+2025-05-02 00:02:58,291 [INFO] Visiting product 97074657 -> https://modesens.cn/product/magda-butrym-strapless-stretch-silk-corset-top-blue-97074657/
+2025-05-02 00:03:04,240 [WARNING] Blocked on product page https://modesens.cn/product/magda-butrym-strapless-stretch-silk-corset-top-blue-97074657/. Skipping availability.
+2025-05-02 00:03:05,763 [INFO] Visiting product 111106883 -> https://modesens.cn/product/alice-and-olivia-willa-shirt-in-rose-pink-silk-111106883/
+2025-05-02 00:03:11,882 [WARNING] Blocked on product page https://modesens.cn/product/alice-and-olivia-willa-shirt-in-rose-pink-silk-111106883/. Skipping availability.
+2025-05-02 00:03:13,782 [INFO] Visiting product 106294326 -> https://modesens.cn/product/burberry-green-peg-mini-shoulder-bag-106294326/
+2025-05-02 00:03:28,787 [ERROR] Could not load product page https://modesens.cn/product/burberry-green-peg-mini-shoulder-bag-106294326/: Message: timeout: Timed out receiving message from renderer: 11.957
+  (Session info: chrome=135.0.7049.115)
+Stacktrace:
+	GetHandleVerifier [0x0055D363+60275]
+	GetHandleVerifier [0x0055D3A4+60340]
+	(No symbol) [0x003906F3]
+	(No symbol) [0x0038126B]
+	(No symbol) [0x00380FA1]
+	(No symbol) [0x0037EF80]
+	(No symbol) [0x0037FA3D]
+	(No symbol) [0x0038BFE9]
+	(No symbol) [0x0039D745]
+	(No symbol) [0x003A2FE6]
+	(No symbol) [0x0038004D]
+	(No symbol) [0x0039D4EE]
+	(No symbol) [0x0041EA07]
+	(No symbol) [0x003FCE86]
+	(No symbol) [0x003CC623]
+	(No symbol) [0x003CD474]
+	GetHandleVerifier [0x007A8FE3+2467827]
+	GetHandleVerifier [0x007A45E6+2448886]
+	GetHandleVerifier [0x007BF80C+2560028]
+	GetHandleVerifier [0x00573DF5+153093]
+	GetHandleVerifier [0x0057A3BD+179149]
+	GetHandleVerifier [0x00564BB8+91080]
+	GetHandleVerifier [0x00564D60+91504]
+	GetHandleVerifier [0x0054FA10+4640]
+	BaseThreadInitThunk [0x76875D49+25]
+	RtlInitializeExceptionChain [0x7789CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7789CE91+561]
+
+2025-05-02 00:03:28,787 [INFO] Visiting product 93652643 -> https://modesens.cn/product/agolde-dame-high-rise-wide-leg-jean-showdown-93652643/
+2025-05-02 00:03:35,576 [WARNING] Blocked on product page https://modesens.cn/product/agolde-dame-high-rise-wide-leg-jean-showdown-93652643/. Skipping availability.
+2025-05-02 00:03:37,451 [INFO] Visiting product 33249009 -> https://modesens.cn/product/dolce-gabbana-daymaster-mixed-leather-runner-sneakers-bianco-33249009/
+2025-05-02 00:03:45,252 [WARNING] Blocked on product page https://modesens.cn/product/dolce-gabbana-daymaster-mixed-leather-runner-sneakers-bianco-33249009/. Skipping availability.
+2025-05-02 00:03:46,924 [INFO] Visiting product 61813409 -> https://modesens.cn/product/khaite-marcy-crystal-embellished-satin-ballet-flats-black-61813409/
+2025-05-02 00:03:52,195 [WARNING] Blocked on product page https://modesens.cn/product/khaite-marcy-crystal-embellished-satin-ballet-flats-black-61813409/. Skipping availability.
+2025-05-02 00:03:53,414 [INFO] Visiting product 107294644 -> https://modesens.cn/product/toteme-black-leather-flip-flop-heeled-sandals-107294644/
+2025-05-02 00:03:58,985 [WARNING] Blocked on product page https://modesens.cn/product/toteme-black-leather-flip-flop-heeled-sandals-107294644/. Skipping availability.
+2025-05-02 00:04:00,870 [INFO] Visiting product 38871782 -> https://modesens.cn/product/toteme-embroidered-fringe-contrast-trim-scarf-wool-jacket-multi-38871782/
+2025-05-02 00:04:05,731 [WARNING] Blocked on product page https://modesens.cn/product/toteme-embroidered-fringe-contrast-trim-scarf-wool-jacket-multi-38871782/. Skipping availability.
+2025-05-02 00:04:07,440 [INFO] Visiting product 103222992 -> https://modesens.cn/product/khaite-arizona-croc-effect-leather-ankle-boots-black-103222992/
+2025-05-02 00:04:13,231 [WARNING] Blocked on product page https://modesens.cn/product/khaite-arizona-croc-effect-leather-ankle-boots-black-103222992/. Skipping availability.
+2025-05-02 00:04:14,832 [INFO] Visiting product 104978047 -> https://modesens.cn/product/norma-kamali-boyfriend-elephant-sequined-palazzo-pants-brown-104978047/
+2025-05-02 00:04:20,467 [WARNING] Blocked on product page https://modesens.cn/product/norma-kamali-boyfriend-elephant-sequined-palazzo-pants-brown-104978047/. Skipping availability.
+2025-05-02 00:04:21,980 [INFO] Visiting product 98589269 -> https://modesens.cn/product/burberry-multicolor-checked-pleated-skirt-98589269/
+2025-05-02 00:04:29,146 [WARNING] Blocked on product page https://modesens.cn/product/burberry-multicolor-checked-pleated-skirt-98589269/. Skipping availability.
+2025-05-02 00:04:30,366 [INFO] Visiting product 103861343 -> https://modesens.cn/product/the-row-35mm-nobilis-tr-leather-boots-black-103861343/
+2025-05-02 00:04:42,771 [WARNING] Blocked on product page https://modesens.cn/product/the-row-35mm-nobilis-tr-leather-boots-black-103861343/. Skipping availability.
+2025-05-02 00:04:43,905 [INFO] Visiting product 110345983 -> https://modesens.cn/product/toteme-the-wide-shaft-ankle-boots---toteme---leather---black-110345983/
+2025-05-02 00:04:48,704 [WARNING] Blocked on product page https://modesens.cn/product/toteme-the-wide-shaft-ankle-boots---toteme---leather---black-110345983/. Skipping availability.
+2025-05-02 00:04:49,779 [INFO] Visiting product 13505673 -> https://modesens.cn/product/the-row-black-zipped-i-ankle-boots-13505673/
+2025-05-02 00:04:55,401 [WARNING] Blocked on product page https://modesens.cn/product/the-row-black-zipped-i-ankle-boots-13505673/. Skipping availability.
+2025-05-02 00:04:57,339 [INFO] Visiting product 20509054 -> https://modesens.cn/product/burberry-vintage-check-stretch-jersey-leggings-20509054/
+2025-05-02 00:05:04,573 [WARNING] Blocked on product page https://modesens.cn/product/burberry-vintage-check-stretch-jersey-leggings-20509054/. Skipping availability.
+2025-05-02 00:05:06,161 [INFO] Fetching collections page 3: https://modesens.cn/collections/?page=3
+2025-05-02 00:05:06,364 [ERROR] Error loading page https://modesens.cn/collections/?page=3: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=135.0.7049.115)
+Stacktrace:
+	GetHandleVerifier [0x0055D363+60275]
+	GetHandleVerifier [0x0055D3A4+60340]
+	(No symbol) [0x003906F3]
+	(No symbol) [0x0037FF20]
+	(No symbol) [0x0039DDA2]
+	(No symbol) [0x00403D2F]
+	(No symbol) [0x0041DFE9]
+	(No symbol) [0x003FCE86]
+	(No symbol) [0x003CC623]
+	(No symbol) [0x003CD474]
+	GetHandleVerifier [0x007A8FE3+2467827]
+	GetHandleVerifier [0x007A45E6+2448886]
+	GetHandleVerifier [0x007BF80C+2560028]
+	GetHandleVerifier [0x00573DF5+153093]
+	GetHandleVerifier [0x0057A3BD+179149]
+	GetHandleVerifier [0x00564BB8+91080]
+	GetHandleVerifier [0x00564D60+91504]
+	GetHandleVerifier [0x0054FA10+4640]
+	BaseThreadInitThunk [0x76875D49+25]
+	RtlInitializeExceptionChain [0x7789CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7789CE91+561]
+

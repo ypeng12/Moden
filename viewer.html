@@ -1,0 +1,36 @@
+import os
+import csv
+
+HTML_PATH = "viewer.html"
+IMAGE_DIR = "images"
+CSV_FILE = "similarity_results.csv"
+
+html = ['<html><head><title>Similarity Viewer</title><style>',
+        'body { font-family: sans-serif; }',
+        '.row { margin-bottom: 40px; }',
+        '.main { font-weight: bold; font-size: 16px; margin-bottom: 10px; }',
+        'img { height: 180px; margin-right: 10px; border: 1px solid #ccc; }',
+        '</style></head><body><h1>Visual Similarity Viewer</h1>']
+
+with open(CSV_FILE, newline='', encoding="utf-8") as f:
+    reader = csv.DictReader(f)
+    for row in reader:
+        pid = row["product_id"]
+        sim_ids = row["similar_product_ids"].split(";")
+
+        html.append(f'<div class="row">')
+        html.append(f'<div class="main">Target Product: {pid}</div>')
+        html.append(f'<img src="../{IMAGE_DIR}/{pid}.jpg" alt="{pid}">')
+        html.append('<div>Similar Products:</div>')
+        for sid in sim_ids:
+            path = f"{IMAGE_DIR}/{sid}.jpg"
+            if os.path.exists(path):
+                html.append(f'<img src="../{path}" alt="{sid}">')
+        html.append('</div>')
+
+html.append('</body></html>')
+
+with open(HTML_PATH, "w", encoding="utf-8") as f:
+    f.write('\n'.join(html))
+
+print("✅ Done. Open viewer.html in your browser to check by eye.")

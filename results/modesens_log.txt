@@ -1,0 +1,275 @@
+2025-05-14 21:26:28,285 [INFO] Using default request storage
+2025-05-14 21:26:28,296 [INFO] Created proxy listening on 127.0.0.1:53681
+2025-05-14 21:26:30,483 [INFO] Capturing request: https://modesens.cn/collections/?page=1
+2025-05-14 21:26:32,657 [INFO] Capturing response: https://modesens.cn/collections/?page=1 200 
+2025-05-14 21:26:32,882 [INFO] Capturing request: https://cdn.modesens.com/static/img/20250113tagline_ModeSens_Black_zh.svg
+2025-05-14 21:26:32,885 [INFO] Capturing request: https://cdn.modesens.com/static/img/20210908column2.svg
+2025-05-14 21:26:32,895 [INFO] Capturing request: https://cdn.modesens.com/availability/chloe-t-shirts-and-polos-white-104741156?w=400
+2025-05-14 21:26:32,910 [INFO] Capturing request: https://cdn.modesens.com/availability/zimmermann-printed-viscose-shirt-with-internal-tank-top-pink-104960762?w=400
+2025-05-14 21:26:32,913 [INFO] Capturing request: https://cdn.modesens.com/static/img/20210908column4_active.svg
+2025-05-14 21:26:32,916 [INFO] Capturing request: https://cdn.modesens.com/static/img/20250220search.svg
+2025-05-14 21:26:32,919 [INFO] Capturing request: https://cdn.modesens.com/static/img/20210908column3.svg
+2025-05-14 21:26:32,922 [INFO] Capturing request: https://cdn.modesens.com/static/img/20250220account.svg
+2025-05-14 21:26:32,926 [INFO] Capturing request: https://cdn.modesens.com/static/img/20250220like.svg
+2025-05-14 21:26:32,931 [INFO] Capturing request: https://cdn.modesens.com/availability/zimmermann-crush-buttoned-mini-dress-lilac-floral-100132862?w=400
+2025-05-14 21:26:32,934 [INFO] Capturing request: https://www.googletagmanager.com/gtm.js?id=GTM-5FPW2R8
+2025-05-14 21:26:32,937 [INFO] Capturing request: https://cdn.modesens.com/availability/chloe-maxime-wedge-black-100215057?w=400
+2025-05-14 21:26:32,944 [INFO] Capturing request: https://cdn.modesens.com/availability/zimmermann-illuminate-blouse-neutrals-102198655?w=400
+2025-05-14 21:26:32,947 [INFO] Capturing request: https://cdn.modesens.com/availability/chloe-maxime-wedge-sandal-ginger-brown-93464371?w=400
+2025-05-14 21:26:32,950 [INFO] Capturing request: https://cdn.modesens.com/availability/zimmermann-billow-shirt-neutrals-96972213?w=400
+2025-05-14 21:26:32,954 [INFO] Capturing request: https://cdn.modesens.com/availability/zimmermann-crush-floral-ruffled-tie-neck-blouse-pink-100051444?w=400
+2025-05-14 21:26:32,967 [INFO] Capturing response: https://cdn.modesens.com/static/img/20250113tagline_ModeSens_Black_zh.svg 200 
+2025-05-14 21:26:32,972 [INFO] Capturing request: https://cdn.modesens.com/availability/44320302?w=400
+2025-05-14 21:26:32,976 [INFO] Capturing request: https://cdn.modesens.com/availability/zimmermann-flower-printed-crush-midi-dress-in-linen-white-105476200?w=400
+2025-05-14 21:26:32,979 [INFO] Capturing request: https://cdn.modesens.com/availability/chloe-sneakers-multicolour-102482997?w=400
+2025-05-14 21:26:32,982 [INFO] Capturing request: https://cdn.modesens.com/static/img/20250113_trending_zh.svg
+2025-05-14 21:26:32,986 [INFO] Capturing request: https://cdn.modesens.com/availability/balmain-kiss-printed-crewneck-t-white-98085909?w=400
+2025-05-14 21:26:32,990 [INFO] Capturing request: https://cdn.modesens.com/availability/zimmermann-high-waisted-floral-cream-linen-shorts-beige-105379121?w=400
+2025-05-14 21:26:32,994 [INFO] Capturing request: https://cdn.modesens.com/static/img/20250113_price_drop_zh.svg
+2025-05-14 21:26:32,997 [INFO] Capturing request: https://cdn.modesens.com/availability/chloe-high-heeled-boot-georgia-106708595?w=400
+2025-05-14 21:26:33,000 [INFO] Capturing request: https://cdn.modesens.com/availability/zimmermann-crush-shorts-white-100135153?w=400
+2025-05-14 21:26:33,004 [INFO] Capturing request: https://cdn.modesens.com/static/img/20230511filter.svg
+2025-05-14 21:26:33,011 [INFO] Capturing response: https://cdn.modesens.com/availability/chloe-t-shirts-and-polos-white-104741156?w=400 200 
+2025-05-14 21:26:33,023 [INFO] Capturing response: https://cdn.modesens.com/static/img/20210908column2.svg 200 
+2025-05-14 21:26:33,037 [INFO] Capturing response: https://cdn.modesens.com/availability/zimmermann-crush-buttoned-mini-dress-lilac-floral-100132862?w=400 200 
+2025-05-14 21:26:33,046 [INFO] Capturing response: https://cdn.modesens.com/static/img/20250220search.svg 200 
+2025-05-14 21:26:33,051 [INFO] Capturing response: https://cdn.modesens.com/static/img/20210908column4_active.svg 200 
+2025-05-14 21:26:33,058 [INFO] Capturing response: https://cdn.modesens.com/static/img/20250220account.svg 200 
+2025-05-14 21:26:33,061 [INFO] Capturing response: https://cdn.modesens.com/availability/zimmermann-printed-viscose-shirt-with-internal-tank-top-pink-104960762?w=400 200 
+2025-05-14 21:26:33,082 [INFO] Capturing response: https://cdn.modesens.com/static/img/20210908column3.svg 200 
+2025-05-14 21:26:33,089 [INFO] Capturing request: https://content-autofill.googleapis.com/v1/pages/ChRDaHJvbWUvMTM2LjAuNzEwMy45MxIZCXwArn_OW7QnEgUNkWGVTiFfzQ0UmwBUAQ==?alt=proto
+2025-05-14 21:26:33,131 [INFO] Capturing response: https://cdn.modesens.com/static/img/20250220like.svg 200 
+2025-05-14 21:26:33,150 [INFO] Capturing response: https://cdn.modesens.com/availability/balmain-kiss-printed-crewneck-t-white-98085909?w=400 200 
+2025-05-14 21:26:33,168 [INFO] Capturing response: https://cdn.modesens.com/static/img/20250113_price_drop_zh.svg 200 
+2025-05-14 21:26:33,175 [INFO] Capturing response: https://content-autofill.googleapis.com/v1/pages/ChRDaHJvbWUvMTM2LjAuNzEwMy45MxIZCXwArn_OW7QnEgUNkWGVTiFfzQ0UmwBUAQ==?alt=proto 200 
+2025-05-14 21:26:33,189 [INFO] Capturing response: https://cdn.modesens.com/availability/44320302?w=400 200 
+2025-05-14 21:26:33,195 [INFO] Capturing response: https://cdn.modesens.com/availability/zimmermann-illuminate-blouse-neutrals-102198655?w=400 200 
+2025-05-14 21:26:33,208 [INFO] Capturing response: https://cdn.modesens.com/availability/zimmermann-billow-shirt-neutrals-96972213?w=400 200 
+2025-05-14 21:26:33,225 [INFO] Capturing response: https://www.googletagmanager.com/gtm.js?id=GTM-5FPW2R8 200 
+2025-05-14 21:26:33,240 [INFO] Capturing response: https://cdn.modesens.com/availability/zimmermann-crush-floral-ruffled-tie-neck-blouse-pink-100051444?w=400 200 
+2025-05-14 21:26:33,255 [INFO] Capturing response: https://cdn.modesens.com/availability/zimmermann-flower-printed-crush-midi-dress-in-linen-white-105476200?w=400 200 
+2025-05-14 21:26:33,259 [INFO] Capturing response: https://cdn.modesens.com/availability/chloe-sneakers-multicolour-102482997?w=400 200 
+2025-05-14 21:26:33,262 [INFO] Capturing response: https://cdn.modesens.com/static/img/20250113_trending_zh.svg 200 
+2025-05-14 21:26:33,273 [INFO] Capturing response: https://cdn.modesens.com/availability/zimmermann-crush-shorts-white-100135153?w=400 200 
+2025-05-14 21:26:33,276 [INFO] Capturing response: https://cdn.modesens.com/availability/chloe-high-heeled-boot-georgia-106708595?w=400 200 
+2025-05-14 21:26:33,286 [INFO] Capturing response: https://cdn.modesens.com/static/img/20230511filter.svg 200 
+2025-05-14 21:26:33,290 [INFO] Capturing response: https://cdn.modesens.com/availability/chloe-maxime-wedge-sandal-ginger-brown-93464371?w=400 200 
+2025-05-14 21:26:33,299 [INFO] Capturing response: https://cdn.modesens.com/availability/zimmermann-high-waisted-floral-cream-linen-shorts-beige-105379121?w=400 200 
+2025-05-14 21:26:33,302 [INFO] Capturing response: https://cdn.modesens.com/availability/chloe-maxime-wedge-black-100215057?w=400 200 
+2025-05-14 21:26:33,383 [INFO] Capturing request: https://www.googletagmanager.com/gtag/js?id=G-DJWKGXM3TP&cx=c&gtm=45He55d1v812809953za200&tag_exp=101509157~103116026~103130498~103130500~103200004~103207801~103233427~103252644~103252646~103263070~103301114~103301116
+2025-05-14 21:26:33,488 [INFO] Capturing request: https://www.googletagmanager.com/static/service_worker/5570/sw_iframe.html?origin=https%3A%2F%2Fmodesens.cn
+2025-05-14 21:26:33,628 [INFO] Capturing response: https://www.googletagmanager.com/gtag/js?id=G-DJWKGXM3TP&cx=c&gtm=45He55d1v812809953za200&tag_exp=101509157~103116026~103130498~103130500~103200004~103207801~103233427~103252644~103252646~103263070~103301114~103301116 200 
+2025-05-14 21:26:33,632 [INFO] Capturing response: https://www.googletagmanager.com/static/service_worker/5570/sw_iframe.html?origin=https%3A%2F%2Fmodesens.cn 200 
+2025-05-14 21:26:33,867 [INFO] Capturing request: https://www.googletagmanager.com/static/service_worker/5570/sw.js?origin=https%3A%2F%2Fmodesens.cn
+2025-05-14 21:26:33,926 [INFO] Capturing request: https://www.google.com/measurement/conversion/?random=1747283193673&cv=11&tid=G-DJWKGXM3TP&fst=1747283193673&fmt=6&en=first_visit&gtm=45je55d1v880207503z8812809953za200zb812809953&gcd=13l3l3l3l1l1&dma=0&tag_exp=101509157~103116025~103130495~103130497~103200001~103233427~103252644~103252646~103301114~103301116&ptag_exp=101509157~103116026~103130498~103130500~103200004~103207801~103233427~103252644~103252646~103263070~103301114~103301116&u_w=1920&u_h=1080&url=https%3A%2F%2Fmodesens.cn%2Fcollections%2F%3Fpage%3D1&gacid=1216652009.1747283194&frm=0&tiba=%E5%A5%B3%E5%A3%AB%E7%B2%BE%E5%93%81%20%7C%20ModeSens&npa=0&pscdl=noapi&auid=2078539196.1747283193&uaa=&uab=&uafvl=&uamb=0&uam=&uap=Windows&uapv=&uaw=0
+2025-05-14 21:26:33,929 [INFO] Capturing request: https://www.google.com/measurement/conversion/?random=1747283193673&cv=11&tid=G-DJWKGXM3TP&fst=1747283193673&fmt=6&en=session_start&gtm=45je55d1v880207503z8812809953za200zb812809953&gcd=13l3l3l3l1l1&dma=0&tag_exp=101509157~103116025~103130495~103130497~103200001~103233427~103252644~103252646~103301114~103301116&ptag_exp=101509157~103116026~103130498~103130500~103200004~103207801~103233427~103252644~103252646~103263070~103301114~103301116&u_w=1920&u_h=1080&url=https%3A%2F%2Fmodesens.cn%2Fcollections%2F%3Fpage%3D1&gacid=1216652009.1747283194&frm=0&tiba=%E5%A5%B3%E5%A3%AB%E7%B2%BE%E5%93%81%20%7C%20ModeSens&npa=0&pscdl=noapi&auid=2078539196.1747283193&uaa=&uab=&uafvl=&uamb=0&uam=&uap=Windows&uapv=&uaw=0
+2025-05-14 21:26:34,002 [INFO] Capturing response: https://www.googletagmanager.com/static/service_worker/5570/sw.js?origin=https%3A%2F%2Fmodesens.cn 200 
+2025-05-14 21:26:34,080 [INFO] Capturing response: https://www.google.com/measurement/conversion/?random=1747283193673&cv=11&tid=G-DJWKGXM3TP&fst=1747283193673&fmt=6&en=first_visit&gtm=45je55d1v880207503z8812809953za200zb812809953&gcd=13l3l3l3l1l1&dma=0&tag_exp=101509157~103116025~103130495~103130497~103200001~103233427~103252644~103252646~103301114~103301116&ptag_exp=101509157~103116026~103130498~103130500~103200004~103207801~103233427~103252644~103252646~103263070~103301114~103301116&u_w=1920&u_h=1080&url=https%3A%2F%2Fmodesens.cn%2Fcollections%2F%3Fpage%3D1&gacid=1216652009.1747283194&frm=0&tiba=%E5%A5%B3%E5%A3%AB%E7%B2%BE%E5%93%81%20%7C%20ModeSens&npa=0&pscdl=noapi&auid=2078539196.1747283193&uaa=&uab=&uafvl=&uamb=0&uam=&uap=Windows&uapv=&uaw=0 200 
+2025-05-14 21:26:34,110 [INFO] Capturing response: https://www.google.com/measurement/conversion/?random=1747283193673&cv=11&tid=G-DJWKGXM3TP&fst=1747283193673&fmt=6&en=session_start&gtm=45je55d1v880207503z8812809953za200zb812809953&gcd=13l3l3l3l1l1&dma=0&tag_exp=101509157~103116025~103130495~103130497~103200001~103233427~103252644~103252646~103301114~103301116&ptag_exp=101509157~103116026~103130498~103130500~103200004~103207801~103233427~103252644~103252646~103263070~103301114~103301116&u_w=1920&u_h=1080&url=https%3A%2F%2Fmodesens.cn%2Fcollections%2F%3Fpage%3D1&gacid=1216652009.1747283194&frm=0&tiba=%E5%A5%B3%E5%A3%AB%E7%B2%BE%E5%93%81%20%7C%20ModeSens&npa=0&pscdl=noapi&auid=2078539196.1747283193&uaa=&uab=&uafvl=&uamb=0&uam=&uap=Windows&uapv=&uaw=0 200 
+2025-05-14 21:26:34,420 [INFO] Capturing request: https://www.google.com/ccm/collect?en=page_view&dl=https%3A%2F%2Fmodesens.cn%2Fcollections%2F&scrsrc=www.googletagmanager.com&frm=0&rnd=600158345.1747283193&dt=%E5%A5%B3%E5%A3%AB%E7%B2%BE%E5%93%81%20%7C%20ModeSens&auid=2078539196.1747283193&navt=n&npa=0&gtm=45He55d1v812809953za200&gcd=13l3l3l3l1l1&dma=0&tag_exp=101509157~103116026~103130498~103130500~103200004~103207801~103233427~103252644~103252646~103263070~103301114~103301116&tft=1747283193276&tfd=3474&apve=1&apvf=sb
+2025-05-14 21:26:34,512 [INFO] Capturing request: https://stats.g.doubleclick.net/g/collect?v=2&tid=G-DJWKGXM3TP&cid=1216652009.1747283194&gtm=45je55d1v880207503z8812809953za200zb812809953&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=101509157~103116025~103130495~103130497~103200001~103233427~103252644~103252646~103301114~103301116&ptag_exp=101509157~103116026~103130498~103130500~103200004~103207801~103233427~103252644~103252646~103263070~103301114~103301116
+2025-05-14 21:26:34,560 [INFO] Capturing response: https://www.google.com/ccm/collect?en=page_view&dl=https%3A%2F%2Fmodesens.cn%2Fcollections%2F&scrsrc=www.googletagmanager.com&frm=0&rnd=600158345.1747283193&dt=%E5%A5%B3%E5%A3%AB%E7%B2%BE%E5%93%81%20%7C%20ModeSens&auid=2078539196.1747283193&navt=n&npa=0&gtm=45He55d1v812809953za200&gcd=13l3l3l3l1l1&dma=0&tag_exp=101509157~103116026~103130498~103130500~103200004~103207801~103233427~103252644~103252646~103263070~103301114~103301116&tft=1747283193276&tfd=3474&apve=1&apvf=sb 200 
+2025-05-14 21:26:34,576 [INFO] Capturing response: https://stats.g.doubleclick.net/g/collect?v=2&tid=G-DJWKGXM3TP&cid=1216652009.1747283194&gtm=45je55d1v880207503z8812809953za200zb812809953&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=101509157~103116025~103130495~103130497~103200001~103233427~103252644~103252646~103301114~103301116&ptag_exp=101509157~103116026~103130498~103130500~103200004~103207801~103233427~103252644~103252646~103263070~103301114~103301116 204 
+2025-05-14 21:26:36,230 [INFO] Capturing request: https://cdn.modesens.com/availability/zimmermann-tallow-midi-dress-neutrals-98918055?w=400
+2025-05-14 21:26:36,232 [INFO] Capturing request: https://cdn.modesens.com/availability/zimmermann-illuminate-ivory-tropical-103864375?w=400
+2025-05-14 21:26:36,235 [INFO] Capturing request: https://cdn.modesens.com/availability/chloe-maxime-platform-slingback-sandal-ginger-brown-104069767?w=400
+2025-05-14 21:26:36,237 [INFO] Capturing request: https://cdn.modesens.com/availability/zimmermann-illuminate-v-neck-mini-dress-neutrals-104014540?w=400
+2025-05-14 21:26:36,240 [INFO] Capturing request: https://cdn.modesens.com/availability/zimmermann-wylie-printed-linen-tunic-beige-104097077?w=400
+2025-05-14 21:26:36,242 [INFO] Capturing request: https://cdn.modesens.com/availability/zimmermann-halliday-cuffed-playsuit-lilac-floral-96002114?w=400
+2025-05-14 21:26:36,245 [INFO] Capturing request: https://cdn.modesens.com/availability/chloe-crew-neck-jersey-t-shirt-with-large-portrait-print-107104881?w=400
+2025-05-14 21:26:36,247 [INFO] Capturing request: https://cdn.modesens.com/availability/balmain-halterneck-contract-trim-mini-dress-blk-white-100584039?w=400
+2025-05-14 21:26:36,288 [INFO] Capturing response: https://cdn.modesens.com/availability/zimmermann-tallow-midi-dress-neutrals-98918055?w=400 200 
+2025-05-14 21:26:36,335 [INFO] Capturing request: https://cdn.modesens.com/availability/chloe-jeannette-leather-wedge-clog-black-105616546?w=400
+2025-05-14 21:26:36,337 [INFO] Capturing request: https://cdn.modesens.com/availability/zimmermann-wylie-mini-dress-neutrals-101235245?w=400
+2025-05-14 21:26:36,340 [INFO] Capturing request: https://cdn.modesens.com/availability/chloe-kick-high-top-sneaker-natural-brown-100215064?w=400
+2025-05-14 21:26:36,378 [INFO] Capturing response: https://cdn.modesens.com/availability/balmain-halterneck-contract-trim-mini-dress-blk-white-100584039?w=400 200 
+2025-05-14 21:26:36,412 [INFO] Capturing response: https://cdn.modesens.com/availability/zimmermann-illuminate-ivory-tropical-103864375?w=400 200 
+2025-05-14 21:26:36,430 [INFO] Capturing response: https://cdn.modesens.com/availability/chloe-jeannette-leather-wedge-clog-black-105616546?w=400 200 
+2025-05-14 21:26:36,444 [INFO] Capturing response: https://cdn.modesens.com/availability/zimmermann-illuminate-v-neck-mini-dress-neutrals-104014540?w=400 200 
+2025-05-14 21:26:36,448 [INFO] Capturing response: https://cdn.modesens.com/availability/chloe-maxime-platform-slingback-sandal-ginger-brown-104069767?w=400 200 
+2025-05-14 21:26:36,453 [INFO] Capturing response: https://cdn.modesens.com/availability/zimmermann-wylie-mini-dress-neutrals-101235245?w=400 200 
+2025-05-14 21:26:36,459 [INFO] Capturing response: https://cdn.modesens.com/availability/chloe-crew-neck-jersey-t-shirt-with-large-portrait-print-107104881?w=400 200 
+2025-05-14 21:26:36,491 [INFO] Capturing response: https://cdn.modesens.com/availability/zimmermann-wylie-printed-linen-tunic-beige-104097077?w=400 200 
+2025-05-14 21:26:36,523 [INFO] Capturing response: https://cdn.modesens.com/availability/zimmermann-halliday-cuffed-playsuit-lilac-floral-96002114?w=400 200 
+2025-05-14 21:26:36,526 [INFO] Capturing response: https://cdn.modesens.com/availability/chloe-kick-high-top-sneaker-natural-brown-100215064?w=400 200 
+2025-05-14 21:26:37,034 [INFO] Capturing request: https://cdn.modesens.com/availability/zimmermann-womens-zimmermann-everley-tuck-floral-pattern-linen-shorts-light-blue-floral-99354729?w=400
+2025-05-14 21:26:37,036 [INFO] Capturing request: https://cdn.modesens.com/availability/zimmermann-tallow-relaxed-silk-button-up-shirt-ombre-multi-97664688?w=400
+2025-05-14 21:26:37,039 [INFO] Capturing request: https://cdn.modesens.com/availability/18921291?w=400
+2025-05-14 21:26:37,041 [INFO] Capturing request: https://cdn.modesens.com/availability/zimmermann-acacia-floral-halterneck-linen-romper-yellow-99553611?w=400
+2025-05-14 21:26:37,201 [INFO] Capturing response: https://cdn.modesens.com/availability/zimmermann-womens-zimmermann-everley-tuck-floral-pattern-linen-shorts-light-blue-floral-99354729?w=400 200 
+2025-05-14 21:26:37,217 [INFO] Capturing response: https://cdn.modesens.com/availability/zimmermann-tallow-relaxed-silk-button-up-shirt-ombre-multi-97664688?w=400 200 
+2025-05-14 21:26:37,233 [INFO] Capturing response: https://cdn.modesens.com/availability/18921291?w=400 200 
+2025-05-14 21:26:37,236 [INFO] Capturing request: https://modesens.cn/api/2.0/cn/zh/msorder/getsummary/
+2025-05-14 21:26:37,249 [INFO] Capturing response: https://cdn.modesens.com/availability/zimmermann-acacia-floral-halterneck-linen-romper-yellow-99553611?w=400 200 
+2025-05-14 21:26:37,253 [INFO] Capturing request: https://modesens.cn/api/2.0/cn/zh/product/postpone_search/
+2025-05-14 21:26:37,311 [INFO] Capturing request: https://modesens.cn/sw.js
+2025-05-14 21:26:37,318 [INFO] Capturing request: https://appleid.cdn-apple.com/appleauth/static/jsapi/appleid/1/en_US/appleid.auth.js
+2025-05-14 21:26:37,341 [INFO] Capturing request: https://modesens.cn/api/2.0/cn/zh/getnavhead2/?gender=f&csrfmiddlewaretoken=yh8icZhOmZdkMSaAmZnrMVrPAyjVxw6jHClYDHA2SM2wLyzXDLk19eQPIB3qjKSG&fromweb=1&secretkey=gDsdSXwddn3xp3SWgujuTUizGbfUM3wHcrzj8FLihicCJLUUePkX1dT9NiW8&gcid=1216652009.1747284&gsid=1747283193
+2025-05-14 21:26:37,349 [INFO] Capturing response: https://appleid.cdn-apple.com/appleauth/static/jsapi/appleid/1/en_US/appleid.auth.js 200 OK
+2025-05-14 21:26:37,372 [INFO] Capturing request: https://www.googletagmanager.com/gtag/destination?id=AW-993189995&cx=c&gtm=45He55d1v812809953za200&tag_exp=101509157~103116026~103130498~103130500~103200004~103207801~103233427~103252644~103252646~103263070~103301114~103301116
+2025-05-14 21:26:37,465 [INFO] Capturing request: https://cdn.mxpnl.com/libs/mixpanel-js-wrapper.min.js
+2025-05-14 21:26:37,510 [INFO] Capturing request: https://bat.bing.com/bat.js
+2025-05-14 21:26:37,514 [INFO] Capturing request: https://connect.facebook.net/en_US/fbevents.js
+2025-05-14 21:26:37,526 [INFO] Capturing request: https://www.clarity.ms/tag/jjr3bgcq9t?ref=gtm2
+2025-05-14 21:26:37,572 [INFO] Capturing request: https://cdn.modesens.com/static/img/20250326radio-selected.svg
+2025-05-14 21:26:37,575 [INFO] Capturing request: https://cdn.modesens.com/static/img/20250224xiaohongshu-logo.svg
+2025-05-14 21:26:37,582 [INFO] Capturing response: https://bat.bing.com/bat.js 200 
+2025-05-14 21:26:37,586 [INFO] Capturing request: https://cdn.modesens.com/static/img/20250326radio.svg
+2025-05-14 21:26:37,589 [INFO] Capturing request: https://cdn.modesens.com/static/img/20250224weibo-logo.svg
+2025-05-14 21:26:37,601 [INFO] Capturing response: https://modesens.cn/sw.js 200 
+2025-05-14 21:26:37,607 [INFO] Capturing response: https://modesens.cn/api/2.0/cn/zh/product/postpone_search/ 200 
+2025-05-14 21:26:37,619 [INFO] Capturing response: https://www.googletagmanager.com/gtag/destination?id=AW-993189995&cx=c&gtm=45He55d1v812809953za200&tag_exp=101509157~103116026~103130498~103130500~103200004~103207801~103233427~103252644~103252646~103263070~103301114~103301116 200 
+2025-05-14 21:26:37,623 [INFO] Capturing response: https://cdn.mxpnl.com/libs/mixpanel-js-wrapper.min.js 200 
+2025-05-14 21:26:37,653 [INFO] Capturing response: https://modesens.cn/api/2.0/cn/zh/getnavhead2/?gender=f&csrfmiddlewaretoken=yh8icZhOmZdkMSaAmZnrMVrPAyjVxw6jHClYDHA2SM2wLyzXDLk19eQPIB3qjKSG&fromweb=1&secretkey=gDsdSXwddn3xp3SWgujuTUizGbfUM3wHcrzj8FLihicCJLUUePkX1dT9NiW8&gcid=1216652009.1747284&gsid=1747283193 200 
+2025-05-14 21:26:37,656 [INFO] Capturing request: https://content-autofill.googleapis.com/v1/pages/ChRDaHJvbWUvMTM2LjAuNzEwMy45MxIgCRcGGrZYE9uAEgUNkWGVThIFDTNo3SUhooNoBGcYFmo=?alt=proto
+2025-05-14 21:26:37,662 [INFO] Capturing response: https://cdn.modesens.com/static/img/20250326radio-selected.svg 200 
+2025-05-14 21:26:37,666 [INFO] Capturing response: https://cdn.modesens.com/static/img/20250224weibo-logo.svg 200 
+2025-05-14 21:26:37,670 [INFO] Capturing response: https://cdn.modesens.com/static/img/20250224xiaohongshu-logo.svg 200 
+2025-05-14 21:26:37,676 [INFO] Capturing response: https://cdn.modesens.com/static/img/20250326radio.svg 200 
+2025-05-14 21:26:37,713 [INFO] Capturing request: https://bat.bing.com/p/action/25142340.js
+2025-05-14 21:26:37,718 [INFO] Capturing response: https://connect.facebook.net/en_US/fbevents.js 200 
+2025-05-14 21:26:37,731 [INFO] Capturing response: https://www.clarity.ms/tag/jjr3bgcq9t?ref=gtm2 200 
+2025-05-14 21:26:37,733 [INFO] Capturing request: https://cdn.modesens.com/static/js1/sw-toolbox.js
+2025-05-14 21:26:37,775 [INFO] Capturing request: https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js
+2025-05-14 21:26:37,800 [INFO] Capturing response: https://cdn.modesens.com/static/js1/sw-toolbox.js 200 
+2025-05-14 21:26:37,843 [INFO] Capturing response: https://content-autofill.googleapis.com/v1/pages/ChRDaHJvbWUvMTM2LjAuNzEwMy45MxIgCRcGGrZYE9uAEgUNkWGVThIFDTNo3SUhooNoBGcYFmo=?alt=proto 200 
+2025-05-14 21:26:37,867 [INFO] Capturing request: https://www.clarity.ms/s/0.8.9/clarity.js
+2025-05-14 21:26:37,884 [INFO] Capturing response: https://bat.bing.com/p/action/25142340.js 200 
+2025-05-14 21:26:37,899 [INFO] Capturing request: https://connect.facebook.net/signals/config/148244878887970?v=2.9.201&r=stable&domain=modesens.cn&hme=9ebdfdd473ffce6bfe2267012c83f73483198ffe20d84139a2066b7682f827c0&ex_m=73%2C128%2C113%2C117%2C64%2C6%2C106%2C72%2C19%2C100%2C92%2C54%2C57%2C181%2C202%2C209%2C205%2C206%2C208%2C32%2C107%2C56%2C80%2C207%2C176%2C179%2C203%2C204%2C189%2C139%2C44%2C194%2C191%2C192%2C37%2C151%2C18%2C53%2C198%2C197%2C141%2C21%2C43%2C2%2C46%2C68%2C69%2C70%2C74%2C96%2C20%2C17%2C99%2C95%2C94%2C114%2C55%2C116%2C42%2C115%2C33%2C97%2C29%2C177%2C180%2C148%2C14%2C15%2C16%2C8%2C9%2C28%2C25%2C26%2C60%2C65%2C67%2C78%2C105%2C108%2C30%2C79%2C12%2C10%2C83%2C51%2C24%2C110%2C109%2C111%2C102%2C13%2C23%2C4%2C41%2C77%2C22%2C160%2C89%2C135%2C76%2C1%2C98%2C59%2C87%2C36%2C31%2C85%2C86%2C91%2C40%2C7%2C93%2C84%2C47%2C35%2C38%2C0%2C71%2C118%2C90%2C5%2C50%2C49%2C101%2C88%2C246%2C174%2C126%2C163%2C156%2C3%2C39%2C66%2C45%2C112%2C48%2C82%2C63%2C62%2C34%2C103%2C61%2C58%2C52%2C81%2C75%2C27%2C104%2C11%2C119
+2025-05-14 21:26:37,930 [INFO] Capturing request: https://cdn.modesens.com/availability/zimmermann-acacia-midi-shirt-dress-pink-105230620?w=400
+2025-05-14 21:26:37,933 [INFO] Capturing request: https://cdn.modesens.com/availability/zimmermann-scalloped-shift-dress-floral-pattern-100209519?w=400
+2025-05-14 21:26:37,945 [INFO] Capturing request: https://cdn.modesens.com/availability/zimmermann-floral-print-mini-dress-pink-97912617?w=400
+2025-05-14 21:26:37,948 [INFO] Capturing request: https://cdn.modesens.com/availability/zimmermann-acacia-broderie-midi-dress-pink-floral-95842240?w=400
+2025-05-14 21:26:37,952 [INFO] Capturing response: https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js 200 
+2025-05-14 21:26:37,959 [INFO] Capturing request: https://td.doubleclick.net/td/rul/993189995?random=1747283197673&cv=11&fst=1747283197673&fmt=3&bg=ffffff&guid=ON&async=1&gtm=45be55d1v9168661598z8812809953za200zb812809953&gcd=13l3l3l3l1l1&dma=0&tag_exp=101509157~103116025~103130498~103130500~103200001~103207801~103233427~103252644~103252646~103263070~103301114~103301116&ptag_exp=101509157~103116026~103130498~103130500~103200004~103207801~103233427~103252644~103252646~103263070~103301114~103301116&u_w=1920&u_h=1080&url=https%3A%2F%2Fmodesens.cn%2Fcollections%2F%3Fpage%3D1&hn=www.googleadservices.com&frm=0&tiba=%E5%A5%B3%E5%A3%AB%E7%B2%BE%E5%93%81%20%7C%20ModeSens&npa=0&pscdl=noapi&auid=2078539196.1747283193&uaa=&uab=&uafvl=&uamb=0&uam=&uap=Windows&uapv=&uaw=0&fledge=1&_tu=Cg
+2025-05-14 21:26:37,963 [INFO] Capturing request: https://googleads.g.doubleclick.net/pagead/viewthroughconversion/993189995/?random=1747283197673&cv=11&fst=1747283197673&bg=ffffff&guid=ON&async=1&gtm=45be55d1v9168661598z8812809953za200zb812809953&gcd=13l3l3l3l1l1&dma=0&tag_exp=101509157~103116025~103130498~103130500~103200001~103207801~103233427~103252644~103252646~103263070~103301114~103301116&ptag_exp=101509157~103116026~103130498~103130500~103200004~103207801~103233427~103252644~103252646~103263070~103301114~103301116&u_w=1920&u_h=1080&url=https%3A%2F%2Fmodesens.cn%2Fcollections%2F%3Fpage%3D1&hn=www.googleadservices.com&frm=0&tiba=%E5%A5%B3%E5%A3%AB%E7%B2%BE%E5%93%81%20%7C%20ModeSens&npa=0&pscdl=noapi&auid=2078539196.1747283193&uaa=&uab=&uafvl=&uamb=0&uam=&uap=Windows&uapv=&uaw=0&fledge=1&_tu=Cg&rfmt=3&fmt=4
+2025-05-14 21:26:38,004 [INFO] Capturing request: https://bat.bing.com/action/0?ti=25142340&tm=gtm002&Ver=2&mid=4894f5f4-1992-49a4-84a2-8c4616b5ead4&bo=1&sid=cad3f080314411f08c6b3b5aa9c2e9da&vid=cad40ad0314411f094f23137274c3edd&vids=1&msclkid=N&uach=pv%3D&pi=2083220816&lg=zh-CN&sw=1920&sh=1080&sc=24&tl=%E5%A5%B3%E5%A3%AB%E7%B2%BE%E5%93%81%20%7C%20ModeSens&p=https%3A%2F%2Fmodesens.cn%2Fcollections%2F%3Fpage%3D1&r=&lt=4656&evt=pageLoad&sv=1&cdb=AQAQ&rn=815415
+2025-05-14 21:26:38,012 [INFO] Capturing response: https://td.doubleclick.net/td/rul/993189995?random=1747283197673&cv=11&fst=1747283197673&fmt=3&bg=ffffff&guid=ON&async=1&gtm=45be55d1v9168661598z8812809953za200zb812809953&gcd=13l3l3l3l1l1&dma=0&tag_exp=101509157~103116025~103130498~103130500~103200001~103207801~103233427~103252644~103252646~103263070~103301114~103301116&ptag_exp=101509157~103116026~103130498~103130500~103200004~103207801~103233427~103252644~103252646~103263070~103301114~103301116&u_w=1920&u_h=1080&url=https%3A%2F%2Fmodesens.cn%2Fcollections%2F%3Fpage%3D1&hn=www.googleadservices.com&frm=0&tiba=%E5%A5%B3%E5%A3%AB%E7%B2%BE%E5%93%81%20%7C%20ModeSens&npa=0&pscdl=noapi&auid=2078539196.1747283193&uaa=&uab=&uafvl=&uamb=0&uam=&uap=Windows&uapv=&uaw=0&fledge=1&_tu=Cg 200 
+2025-05-14 21:26:38,023 [INFO] Capturing response: https://googleads.g.doubleclick.net/pagead/viewthroughconversion/993189995/?random=1747283197673&cv=11&fst=1747283197673&bg=ffffff&guid=ON&async=1&gtm=45be55d1v9168661598z8812809953za200zb812809953&gcd=13l3l3l3l1l1&dma=0&tag_exp=101509157~103116025~103130498~103130500~103200001~103207801~103233427~103252644~103252646~103263070~103301114~103301116&ptag_exp=101509157~103116026~103130498~103130500~103200004~103207801~103233427~103252644~103252646~103263070~103301114~103301116&u_w=1920&u_h=1080&url=https%3A%2F%2Fmodesens.cn%2Fcollections%2F%3Fpage%3D1&hn=www.googleadservices.com&frm=0&tiba=%E5%A5%B3%E5%A3%AB%E7%B2%BE%E5%93%81%20%7C%20ModeSens&npa=0&pscdl=noapi&auid=2078539196.1747283193&uaa=&uab=&uafvl=&uamb=0&uam=&uap=Windows&uapv=&uaw=0&fledge=1&_tu=Cg&rfmt=3&fmt=4 200 
+2025-05-14 21:26:38,032 [INFO] Capturing response: https://www.clarity.ms/s/0.8.9/clarity.js 200 
+2025-05-14 21:26:38,043 [INFO] Capturing response: https://connect.facebook.net/signals/config/148244878887970?v=2.9.201&r=stable&domain=modesens.cn&hme=9ebdfdd473ffce6bfe2267012c83f73483198ffe20d84139a2066b7682f827c0&ex_m=73%2C128%2C113%2C117%2C64%2C6%2C106%2C72%2C19%2C100%2C92%2C54%2C57%2C181%2C202%2C209%2C205%2C206%2C208%2C32%2C107%2C56%2C80%2C207%2C176%2C179%2C203%2C204%2C189%2C139%2C44%2C194%2C191%2C192%2C37%2C151%2C18%2C53%2C198%2C197%2C141%2C21%2C43%2C2%2C46%2C68%2C69%2C70%2C74%2C96%2C20%2C17%2C99%2C95%2C94%2C114%2C55%2C116%2C42%2C115%2C33%2C97%2C29%2C177%2C180%2C148%2C14%2C15%2C16%2C8%2C9%2C28%2C25%2C26%2C60%2C65%2C67%2C78%2C105%2C108%2C30%2C79%2C12%2C10%2C83%2C51%2C24%2C110%2C109%2C111%2C102%2C13%2C23%2C4%2C41%2C77%2C22%2C160%2C89%2C135%2C76%2C1%2C98%2C59%2C87%2C36%2C31%2C85%2C86%2C91%2C40%2C7%2C93%2C84%2C47%2C35%2C38%2C0%2C71%2C118%2C90%2C5%2C50%2C49%2C101%2C88%2C246%2C174%2C126%2C163%2C156%2C3%2C39%2C66%2C45%2C112%2C48%2C82%2C63%2C62%2C34%2C103%2C61%2C58%2C52%2C81%2C75%2C27%2C104%2C11%2C119 200 
+2025-05-14 21:26:38,063 [INFO] Capturing response: https://bat.bing.com/action/0?ti=25142340&tm=gtm002&Ver=2&mid=4894f5f4-1992-49a4-84a2-8c4616b5ead4&bo=1&sid=cad3f080314411f08c6b3b5aa9c2e9da&vid=cad40ad0314411f094f23137274c3edd&vids=1&msclkid=N&uach=pv%3D&pi=2083220816&lg=zh-CN&sw=1920&sh=1080&sc=24&tl=%E5%A5%B3%E5%A3%AB%E7%B2%BE%E5%93%81%20%7C%20ModeSens&p=https%3A%2F%2Fmodesens.cn%2Fcollections%2F%3Fpage%3D1&r=&lt=4656&evt=pageLoad&sv=1&cdb=AQAQ&rn=815415 204 
+2025-05-14 21:26:38,093 [INFO] Capturing request: https://c.clarity.ms/c.gif
+2025-05-14 21:26:38,097 [INFO] Capturing response: https://cdn.modesens.com/availability/zimmermann-acacia-midi-shirt-dress-pink-105230620?w=400 200 
+2025-05-14 21:26:38,124 [INFO] Capturing response: https://cdn.modesens.com/availability/zimmermann-scalloped-shift-dress-floral-pattern-100209519?w=400 200 
+2025-05-14 21:26:38,139 [INFO] Capturing request: https://cdn.modesens.com/banner/20250513-modesens-LVR-560x800-F_1747028334.jpg?w=300
+2025-05-14 21:26:38,156 [INFO] Capturing response: https://c.clarity.ms/c.gif 302 
+2025-05-14 21:26:38,159 [INFO] Capturing request: https://cdn.modesens.com/banner/20250515-modesens-Harvey-560x800-F_1747120666.jpg?w=300
+2025-05-14 21:26:38,165 [INFO] Capturing response: https://cdn.modesens.com/availability/zimmermann-acacia-broderie-midi-dress-pink-floral-95842240?w=400 200 
+2025-05-14 21:26:38,171 [INFO] Capturing response: https://cdn.modesens.com/availability/zimmermann-floral-print-mini-dress-pink-97912617?w=400 200 
+2025-05-14 21:26:38,175 [INFO] Capturing request: https://www.google.com/pagead/1p-user-list/993189995/?random=1747283197673&cv=11&fst=1747281600000&bg=ffffff&guid=ON&async=1&gtm=45be55d1v9168661598z8812809953za200zb812809953&gcd=13l3l3l3l1l1&dma=0&tag_exp=101509157~103116025~103130498~103130500~103200001~103207801~103233427~103252644~103252646~103263070~103301114~103301116&ptag_exp=101509157~103116026~103130498~103130500~103200004~103207801~103233427~103252644~103252646~103263070~103301114~103301116&u_w=1920&u_h=1080&url=https%3A%2F%2Fmodesens.cn%2Fcollections%2F%3Fpage%3D1&hn=www.googleadservices.com&frm=0&tiba=%E5%A5%B3%E5%A3%AB%E7%B2%BE%E5%93%81%20%7C%20ModeSens&npa=0&pscdl=noapi&auid=2078539196.1747283193&uaa=&uab=&uafvl=&uamb=0&uam=&uap=Windows&uapv=&uaw=0&fledge=1&_tu=Cg&rfmt=3&fmt=3&is_vtc=1&cid=CAQSGwDZpuyzDxSMSL3BYOLomfhgFjx-9WeN3VIflw&random=1652501168&rmt_tld=0&ipr=y
+2025-05-14 21:26:38,220 [INFO] Capturing response: https://www.google.com/pagead/1p-user-list/993189995/?random=1747283197673&cv=11&fst=1747281600000&bg=ffffff&guid=ON&async=1&gtm=45be55d1v9168661598z8812809953za200zb812809953&gcd=13l3l3l3l1l1&dma=0&tag_exp=101509157~103116025~103130498~103130500~103200001~103207801~103233427~103252644~103252646~103263070~103301114~103301116&ptag_exp=101509157~103116026~103130498~103130500~103200004~103207801~103233427~103252644~103252646~103263070~103301114~103301116&u_w=1920&u_h=1080&url=https%3A%2F%2Fmodesens.cn%2Fcollections%2F%3Fpage%3D1&hn=www.googleadservices.com&frm=0&tiba=%E5%A5%B3%E5%A3%AB%E7%B2%BE%E5%93%81%20%7C%20ModeSens&npa=0&pscdl=noapi&auid=2078539196.1747283193&uaa=&uab=&uafvl=&uamb=0&uam=&uap=Windows&uapv=&uaw=0&fledge=1&_tu=Cg&rfmt=3&fmt=3&is_vtc=1&cid=CAQSGwDZpuyzDxSMSL3BYOLomfhgFjx-9WeN3VIflw&random=1652501168&rmt_tld=0&ipr=y 200 
+2025-05-14 21:26:38,305 [INFO] Capturing request: https://publickeyservice.pa.gcp.privacysandboxservices.com/.well-known/protected-auction/v1/public-keys
+2025-05-14 21:26:38,307 [INFO] Capturing request: https://publickeyservice.pa.aws.privacysandboxservices.com/.well-known/protected-auction/v1/public-keys
+2025-05-14 21:26:38,323 [INFO] Capturing response: https://cdn.modesens.com/banner/20250513-modesens-LVR-560x800-F_1747028334.jpg?w=300 200 
+2025-05-14 21:26:38,355 [INFO] Capturing response: https://cdn.modesens.com/banner/20250515-modesens-Harvey-560x800-F_1747120666.jpg?w=300 200 
+2025-05-14 21:26:38,367 [INFO] Capturing request: https://www.facebook.com/tr/?id=148244878887970&ev=PageView&dl=https%3A%2F%2Fmodesens.cn%2Fcollections%2F%3Fpage%3D1&rl=&if=false&ts=1747283198127&sw=1920&sh=1080&v=2.9.201&r=stable&ec=0&o=12318&fbp=fb.1.1747283198113.890474760108585845&cs_est=true&ler=empty&cdl=API_unavailable&it=1747283197789&coo=false&exp=k2&rqm=GET
+2025-05-14 21:26:38,370 [INFO] Capturing request: https://www.facebook.com/privacy_sandbox/topics/registration/?id=148244878887970
+2025-05-14 21:26:38,382 [INFO] Capturing request: https://www.facebook.com/privacy_sandbox/pixel/register/trigger/?id=148244878887970&ev=PageView&dl=https%3A%2F%2Fmodesens.cn%2Fcollections%2F%3Fpage%3D1&rl=&if=false&ts=1747283198127&sw=1920&sh=1080&v=2.9.201&r=stable&ec=0&o=12318&fbp=fb.1.1747283198113.890474760108585845&cs_est=true&ler=empty&cdl=API_unavailable&it=1747283197789&coo=false&exp=k2&rqm=FGET
+2025-05-14 21:26:38,414 [INFO] Capturing response: https://www.facebook.com/tr/?id=148244878887970&ev=PageView&dl=https%3A%2F%2Fmodesens.cn%2Fcollections%2F%3Fpage%3D1&rl=&if=false&ts=1747283198127&sw=1920&sh=1080&v=2.9.201&r=stable&ec=0&o=12318&fbp=fb.1.1747283198113.890474760108585845&cs_est=true&ler=empty&cdl=API_unavailable&it=1747283197789&coo=false&exp=k2&rqm=GET 200 
+2025-05-14 21:26:38,443 [INFO] Capturing response: https://publickeyservice.pa.aws.privacysandboxservices.com/.well-known/protected-auction/v1/public-keys 200 
+2025-05-14 21:26:38,446 [INFO] Capturing response: https://publickeyservice.pa.gcp.privacysandboxservices.com/.well-known/protected-auction/v1/public-keys 200 
+2025-05-14 21:26:38,455 [INFO] Capturing request: https://cdn.modesens.com/availability/zimmermann-wylie-off-shoulder-midi-dress-blue-floral-97448105?w=400
+2025-05-14 21:26:38,457 [INFO] Capturing request: https://c.bing.com/c.gif?ctsa=mr&CtsSyncId=28503F4EBAB44D189FE5318A682355FD&RedC=c.clarity.ms&MXFR=26A79E4EF3D9686919F88BA3F7D96661
+2025-05-14 21:26:38,460 [INFO] Capturing request: https://cdn.modesens.com/availability/zimmermann-tallow-floral-cotton-wrap-dress-blue-99553556?w=400
+2025-05-14 21:26:38,471 [INFO] Capturing request: https://cdn.modesens.com/availability/chloe-sandals-eggshell-104761250?w=400
+2025-05-14 21:26:38,473 [INFO] Capturing request: https://cdn.modesens.com/availability/chloe-womens-sepia-brown-horse-medal-small-raffia-and-leather-bucket-bag-100581850?w=400
+2025-05-14 21:26:38,481 [INFO] Capturing response: https://www.facebook.com/privacy_sandbox/topics/registration/?id=148244878887970 200 
+2025-05-14 21:26:38,513 [INFO] Capturing request: https://q.clarity.ms/collect
+2025-05-14 21:26:38,522 [INFO] Capturing response: https://c.bing.com/c.gif?ctsa=mr&CtsSyncId=28503F4EBAB44D189FE5318A682355FD&RedC=c.clarity.ms&MXFR=26A79E4EF3D9686919F88BA3F7D96661 302 
+2025-05-14 21:26:38,534 [INFO] Capturing response: https://www.facebook.com/privacy_sandbox/pixel/register/trigger/?id=148244878887970&ev=PageView&dl=https%3A%2F%2Fmodesens.cn%2Fcollections%2F%3Fpage%3D1&rl=&if=false&ts=1747283198127&sw=1920&sh=1080&v=2.9.201&r=stable&ec=0&o=12318&fbp=fb.1.1747283198113.890474760108585845&cs_est=true&ler=empty&cdl=API_unavailable&it=1747283197789&coo=false&exp=k2&rqm=FGET 200 
+2025-05-14 21:26:38,547 [INFO] Capturing response: https://cdn.modesens.com/availability/zimmermann-tallow-floral-cotton-wrap-dress-blue-99553556?w=400 200 
+2025-05-14 21:26:38,564 [INFO] Capturing request: https://publickeyservice.pa.gcp.privacysandboxservices.com/.well-known/protected-auction/v1/public-keys
+2025-05-14 21:26:38,610 [INFO] Capturing response: https://q.clarity.ms/collect 400 Bad Request
+2025-05-14 21:26:38,617 [INFO] Capturing request: https://q.clarity.ms/collect
+2025-05-14 21:26:38,629 [INFO] Capturing response: https://cdn.modesens.com/availability/zimmermann-wylie-off-shoulder-midi-dress-blue-floral-97448105?w=400 200 
+2025-05-14 21:26:38,643 [INFO] Capturing request: https://c.clarity.ms/c.gif?ctsa=mr&CtsSyncId=28503F4EBAB44D189FE5318A682355FD&MUID=36AAE8D95D1F6A9A2446FD345C756B17
+2025-05-14 21:26:38,659 [INFO] Capturing response: https://cdn.modesens.com/availability/chloe-sandals-eggshell-104761250?w=400 200 
+2025-05-14 21:26:38,663 [INFO] Capturing response: https://cdn.modesens.com/availability/chloe-womens-sepia-brown-horse-medal-small-raffia-and-leather-bucket-bag-100581850?w=400 200 
+2025-05-14 21:26:38,704 [INFO] Capturing response: https://publickeyservice.pa.gcp.privacysandboxservices.com/.well-known/protected-auction/v1/public-keys 200 
+2025-05-14 21:26:38,708 [INFO] Capturing request: https://q.clarity.ms/collect
+2025-05-14 21:26:38,808 [INFO] Capturing response: https://c.clarity.ms/c.gif?ctsa=mr&CtsSyncId=28503F4EBAB44D189FE5318A682355FD&MUID=36AAE8D95D1F6A9A2446FD345C756B17 200 
+2025-05-14 21:26:38,910 [INFO] Capturing response: https://q.clarity.ms/collect 400 Bad Request
+2025-05-14 21:26:38,924 [INFO] Capturing response: https://q.clarity.ms/collect 204 No Content
+2025-05-14 21:26:38,983 [INFO] Capturing response: https://modesens.cn/api/2.0/cn/zh/msorder/getsummary/ 200 
+2025-05-14 21:26:39,267 [INFO] Capturing request: https://modesens.cn/api/2.0/cn/zh/log/logagentv2/
+2025-05-14 21:26:39,373 [INFO] Capturing request: https://cdn.modesens.com/availability/chloe-white-shirt-with-embroidered-bow-tie-104834329?w=400
+2025-05-14 21:26:39,389 [INFO] Capturing request: https://cdn.modesens.com/banner/20250513-modesens-SSENSE-560x800-F_1745564132.jpg?w=300
+2025-05-14 21:26:39,392 [INFO] Capturing request: https://cdn.modesens.com/availability/zimmermann-womens-wylie-embroidered-linen-blouse-cream-96508520?w=400
+2025-05-14 21:26:39,395 [INFO] Capturing request: https://cdn.modesens.com/availability/zimmermann-tallow-printed-short-sleeved-shirt-multicolor-103972549?w=400
+2025-05-14 21:26:39,427 [INFO] Capturing response: https://cdn.modesens.com/availability/chloe-white-shirt-with-embroidered-bow-tie-104834329?w=400 200 
+2025-05-14 21:26:39,566 [INFO] Capturing response: https://cdn.modesens.com/banner/20250513-modesens-SSENSE-560x800-F_1745564132.jpg?w=300 200 
+2025-05-14 21:26:39,578 [INFO] Capturing response: https://cdn.modesens.com/availability/zimmermann-tallow-printed-short-sleeved-shirt-multicolor-103972549?w=400 200 
+2025-05-14 21:26:39,582 [INFO] Capturing response: https://cdn.modesens.com/availability/zimmermann-womens-wylie-embroidered-linen-blouse-cream-96508520?w=400 200 
+2025-05-14 21:26:40,174 [INFO] Capturing request: https://cdn.modesens.com/availability/chloe-black-polly-sandals-001-black-101554139?w=400
+2025-05-14 21:26:40,177 [INFO] Capturing request: https://cdn.modesens.com/availability/chloe-kick-leather-low-top-sneakers-weiss-99685391?w=400
+2025-05-14 21:26:40,190 [INFO] Capturing request: https://cdn.modesens.com/availability/isabel-marant-sandra-cotton-mini-skirt-106835120?w=400
+2025-05-14 21:26:40,193 [INFO] Capturing request: https://cdn.modesens.com/availability/isabel-marant-brown-leather-heiko-ankle-boots-101786275?w=400
+2025-05-14 21:26:40,196 [INFO] Capturing request: https://cdn.modesens.com/availability/balmain-ribbed-skirt-neutrals-98014089?w=400
+2025-05-14 21:26:40,198 [INFO] Capturing request: https://cdn.modesens.com/availability/zimmermann-womens-ombre-multi-tallow-relaxed-fit-silk-trousers-97682488?w=400
+2025-05-14 21:26:40,202 [INFO] Capturing request: https://cdn.modesens.com/availability/zimmermann-skirts-pink-floral-103448835?w=400
+2025-05-14 21:26:40,205 [INFO] Capturing request: https://cdn.modesens.com/availability/chloe-denim-bermuda-shorts-with-back-logo-patch-104973511?w=400
+2025-05-14 21:26:40,276 [INFO] Capturing response: https://cdn.modesens.com/availability/zimmermann-skirts-pink-floral-103448835?w=400 200 
+2025-05-14 21:26:40,338 [INFO] Capturing response: https://cdn.modesens.com/availability/chloe-black-polly-sandals-001-black-101554139?w=400 200 
+2025-05-14 21:26:40,354 [INFO] Capturing response: https://cdn.modesens.com/availability/chloe-kick-leather-low-top-sneakers-weiss-99685391?w=400 200 
+2025-05-14 21:26:40,369 [INFO] Capturing response: https://cdn.modesens.com/availability/balmain-ribbed-skirt-neutrals-98014089?w=400 200 
+2025-05-14 21:26:40,374 [INFO] Capturing response: https://cdn.modesens.com/availability/isabel-marant-brown-leather-heiko-ankle-boots-101786275?w=400 200 
+2025-05-14 21:26:40,386 [INFO] Capturing response: https://cdn.modesens.com/availability/zimmermann-womens-ombre-multi-tallow-relaxed-fit-silk-trousers-97682488?w=400 200 
+2025-05-14 21:26:40,390 [INFO] Capturing response: https://cdn.modesens.com/availability/isabel-marant-sandra-cotton-mini-skirt-106835120?w=400 200 
+2025-05-14 21:26:40,401 [INFO] Capturing response: https://cdn.modesens.com/availability/chloe-denim-bermuda-shorts-with-back-logo-patch-104973511?w=400 200 
+2025-05-14 21:26:40,917 [INFO] Capturing request: https://modesens.cn/api/2.0/cn/zh/log/logagentv2/
+2025-05-14 21:26:41,024 [INFO] Capturing request: https://cdn.modesens.com/availability/chloe-dresses-black-103040155?w=400
+2025-05-14 21:26:41,026 [INFO] Capturing request: https://cdn.modesens.com/availability/chloe-baby-fit-t-shirt-with-logo-in-cotton-jersey-pink-and-purple-99530836_1?w=400
+2025-05-14 21:26:41,029 [INFO] Capturing request: https://cdn.modesens.com/availability/chloe-logo-crew-neck-t-shirt-with-chest-pocket-103628484?w=400
+2025-05-14 21:26:41,038 [INFO] Capturing request: https://cdn.modesens.com/availability/la-doublej-la-double-j-lavish-silk-dress-with-flowing-silhouette-107190837?w=400
+2025-05-14 21:26:41,069 [INFO] Capturing response: https://modesens.cn/api/2.0/cn/zh/log/logagentv2/ 200 
+2025-05-14 21:26:41,144 [INFO] Capturing response: https://cdn.modesens.com/availability/la-doublej-la-double-j-lavish-silk-dress-with-flowing-silhouette-107190837?w=400 200 
+2025-05-14 21:26:41,186 [INFO] Capturing response: https://cdn.modesens.com/availability/chloe-dresses-black-103040155?w=400 200 
+2025-05-14 21:26:41,232 [INFO] Capturing response: https://cdn.modesens.com/availability/chloe-baby-fit-t-shirt-with-logo-in-cotton-jersey-pink-and-purple-99530836_1?w=400 200 
+2025-05-14 21:26:41,248 [INFO] Capturing response: https://cdn.modesens.com/availability/chloe-logo-crew-neck-t-shirt-with-chest-pocket-103628484?w=400 200 
+2025-05-14 21:26:41,772 [INFO] Capturing request: https://cdn.modesens.com/availability/jean-paul-gaultier-ribbed-marinier-double-layer-long-dress-navy-white-black-103133354?w=400
+2025-05-14 21:26:41,774 [INFO] Capturing request: https://cdn.modesens.com/availability/zimmermann-halliday-lace-trim-cotton-dress-neutrals-87381676?w=400
+2025-05-14 21:26:41,788 [INFO] Capturing request: https://cdn.modesens.com/availability/zimmermann-linen-silk-flower-embellished-mini-dress-pink-99354300?w=400
+2025-05-14 21:26:41,791 [INFO] Capturing request: https://cdn.modesens.com/banner/20250513-modesens-1000Accessories-560x800-F_1747129302.jpg?w=300
+2025-05-14 21:26:41,845 [INFO] Capturing response: https://cdn.modesens.com/availability/zimmermann-halliday-lace-trim-cotton-dress-neutrals-87381676?w=400 200 
+2025-05-14 21:26:41,937 [INFO] Capturing response: https://cdn.modesens.com/availability/jean-paul-gaultier-ribbed-marinier-double-layer-long-dress-navy-white-black-103133354?w=400 200 
+2025-05-14 21:26:41,966 [INFO] Capturing response: https://cdn.modesens.com/availability/zimmermann-linen-silk-flower-embellished-mini-dress-pink-99354300?w=400 200 
+2025-05-14 21:26:41,996 [INFO] Capturing response: https://cdn.modesens.com/banner/20250513-modesens-1000Accessories-560x800-F_1747129302.jpg?w=300 200 
+2025-05-14 21:26:42,586 [INFO] Capturing response: https://modesens.cn/api/2.0/cn/zh/log/logagentv2/ 200 
+2025-05-14 21:26:42,643 [INFO] Capturing request: https://cdn.modesens.com/availability/zimmermann-linen-silk-plunge-neck-midi-dress-green-104002775?w=400
+2025-05-14 21:26:42,645 [INFO] Capturing request: https://cdn.modesens.com/availability/zimmermann-everley-green-floral-wrap-dress-100383226?w=400
+2025-05-14 21:26:42,659 [INFO] Capturing request: https://cdn.modesens.com/availability/zimmermann-corset-dress-brown-99280888?w=400
+2025-05-14 21:26:42,661 [INFO] Capturing request: https://cdn.modesens.com/availability/zimmermann-crush-twist-front-bow-detail-lace-minidress-blue-99528336?w=400
+2025-05-14 21:26:42,790 [INFO] Capturing response: https://cdn.modesens.com/availability/zimmermann-corset-dress-brown-99280888?w=400 200 
+2025-05-14 21:26:42,813 [INFO] Capturing response: https://cdn.modesens.com/availability/zimmermann-linen-silk-plunge-neck-midi-dress-green-104002775?w=400 200 
+2025-05-14 21:26:42,860 [INFO] Capturing response: https://cdn.modesens.com/availability/zimmermann-crush-twist-front-bow-detail-lace-minidress-blue-99528336?w=400 200 
+2025-05-14 21:26:42,876 [INFO] Capturing response: https://cdn.modesens.com/availability/zimmermann-everley-green-floral-wrap-dress-100383226?w=400 200 
+2025-05-14 21:26:43,186 [INFO] Capturing request: https://modesens.cn/api/2.0/cn/zh/log/logagentv2/
+2025-05-14 21:26:43,202 [INFO] Capturing request: https://modesens.cn/api/2.0/cn/zh/log/logagentv2/
+2025-05-14 21:26:43,301 [INFO] Capturing request: https://cdn.modesens.com/availability/50960577?w=400
+2025-05-14 21:26:43,304 [INFO] Capturing request: https://cdn.modesens.com/availability/zimmermann-crush-linen-and-silk-midi-dress-pink-99849930?w=400
+2025-05-14 21:26:43,306 [INFO] Capturing request: https://cdn.modesens.com/availability/zimmermann-crush-bow-detail-linen-midi-dress-red-97130266?w=400
+2025-05-14 21:26:43,310 [INFO] Capturing request: https://cdn.modesens.com/availability/balmain-pb-embroidered-tank-top-white-98104174?w=400
+2025-05-14 21:26:43,452 [INFO] Capturing response: https://cdn.modesens.com/availability/zimmermann-crush-bow-detail-linen-midi-dress-red-97130266?w=400 200 
+2025-05-14 21:26:43,474 [INFO] Capturing response: https://cdn.modesens.com/availability/50960577?w=400 200 
+2025-05-14 21:26:43,559 [INFO] Capturing response: https://cdn.modesens.com/availability/balmain-pb-embroidered-tank-top-white-98104174?w=400 200 
+2025-05-14 21:26:43,563 [INFO] Capturing response: https://cdn.modesens.com/availability/zimmermann-crush-linen-and-silk-midi-dress-pink-99849930?w=400 200 
+2025-05-14 21:26:43,989 [INFO] Capturing response: https://modesens.cn/api/2.0/cn/zh/log/logagentv2/ 200 
+2025-05-14 21:26:44,171 [INFO] Capturing request: https://cdn.modesens.com/availability/chloe-crew-neck-flocked-finish-lightweight-jersey-top-104178967?w=400
+2025-05-14 21:26:44,173 [INFO] Capturing request: https://cdn.modesens.com/availability/zimmermann-women-crush-silk-blend-top-multicolor-104419939?w=400
+2025-05-14 21:26:44,186 [INFO] Capturing request: https://cdn.modesens.com/availability/khaite-marcy-crystal-embellished-ballerina-shoes-schwarz-78167180?w=400
+2025-05-14 21:26:44,190 [INFO] Capturing request: https://cdn.modesens.com/availability/balmain-long-sleeved-cropped-knitted-cardigan-beige-100032953?w=400
+2025-05-14 21:26:44,282 [INFO] Capturing response: https://cdn.modesens.com/availability/balmain-long-sleeved-cropped-knitted-cardigan-beige-100032953?w=400 200 
+2025-05-14 21:26:44,307 [INFO] Capturing response: https://cdn.modesens.com/availability/zimmermann-women-crush-silk-blend-top-multicolor-104419939?w=400 200 
+2025-05-14 21:26:44,340 [INFO] Capturing response: https://cdn.modesens.com/availability/chloe-crew-neck-flocked-finish-lightweight-jersey-top-104178967?w=400 200 
+2025-05-14 21:26:44,372 [INFO] Capturing response: https://cdn.modesens.com/availability/khaite-marcy-crystal-embellished-ballerina-shoes-schwarz-78167180?w=400 200 
+2025-05-14 21:26:44,533 [INFO] Capturing response: https://modesens.cn/api/2.0/cn/zh/log/logagentv2/ 200 
+2025-05-14 21:26:44,979 [INFO] Capturing request: https://cdn.modesens.com/static/img/20250110logo_M_Black.svg
+2025-05-14 21:26:45,145 [INFO] Capturing response: https://cdn.modesens.com/static/img/20250110logo_M_Black.svg 200 
+2025-05-14 21:26:45,662 [INFO] Capturing request: https://modesens.cn/api/2.0/cn/zh/log/logagentv2/
+2025-05-14 21:26:45,785 [INFO] Capturing request: https://cdn.modesens.com/static/img/20240229_trustpilot.svg
+2025-05-14 21:26:45,947 [INFO] Capturing response: https://cdn.modesens.com/static/img/20240229_trustpilot.svg 200 
+2025-05-14 21:26:46,376 [INFO] Capturing request: https://cdn.modesens.com/static/img/20210918ghs.png
+2025-05-14 21:26:46,544 [INFO] Capturing response: https://cdn.modesens.com/static/img/20210918ghs.png 200 
+2025-05-14 21:26:46,684 [INFO] Capturing response: https://modesens.cn/api/2.0/cn/zh/log/logagentv2/ 200 
+2025-05-14 21:26:51,126 [INFO] 🎉 完成，结果已保存至 modesens_data.csv

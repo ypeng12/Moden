@@ -1,0 +1,204 @@
+2025-05-14 20:30:00,275 [INFO] Using default request storage
+2025-05-14 20:30:00,288 [INFO] Created proxy listening on 127.0.0.1:63070
+2025-05-14 20:30:01,618 [INFO] Capturing request: http://clients2.google.com/time/1/current?cup2key=9:RiPNczKl09_SXCwrdzRDXJSWnFiWLnznQY8fksY5_LM&cup2hreq=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+2025-05-14 20:30:01,715 [INFO] Capturing response: http://clients2.google.com/time/1/current?cup2key=9:RiPNczKl09_SXCwrdzRDXJSWnFiWLnznQY8fksY5_LM&cup2hreq=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 200 OK
+2025-05-14 20:30:01,858 [INFO] Capturing request: https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard
+2025-05-14 20:30:02,135 [INFO] Capturing response: https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard 200 
+2025-05-14 20:30:03,661 [INFO] Capturing request: https://modesens.cn/collections/
+2025-05-14 20:30:04,027 [INFO] Capturing response: https://modesens.cn/collections/ 403 
+2025-05-14 20:30:04,159 [INFO] Capturing request: https://modesens.cn/favicon.ico
+2025-05-14 20:30:04,498 [INFO] Capturing response: https://modesens.cn/favicon.ico 403 
+2025-05-14 20:30:11,562 [INFO] Capturing request: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyA2KlwBX3mkFo30om9LUFYQhpqLoa_BNhE
+2025-05-14 20:30:11,746 [INFO] Capturing response: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyA2KlwBX3mkFo30om9LUFYQhpqLoa_BNhE 200 
+2025-05-14 20:30:11,961 [INFO] Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1745852548&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS
+2025-05-14 20:30:11,965 [INFO] Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1679317318&target=OPTIMIZATION_TARGET_LANGUAGE_DETECTION
+2025-05-14 20:30:12,085 [INFO] Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1745852548&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS 200 
+2025-05-14 20:30:12,304 [INFO] Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=5&target=OPTIMIZATION_TARGET_PAGE_TOPICS_V2
+2025-05-14 20:30:12,365 [INFO] Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1679317318&target=OPTIMIZATION_TARGET_LANGUAGE_DETECTION 200 
+2025-05-14 20:30:12,594 [INFO] Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1745852517&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS
+2025-05-14 20:30:12,890 [INFO] Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1745852517&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS 200 
+2025-05-14 20:30:13,106 [INFO] Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1745938983&target=OPTIMIZATION_TARGET_CLIENT_SIDE_PHISHING
+2025-05-14 20:30:14,208 [INFO] Capturing response: https://optimizationguide-pa.googleap2025-05-14 20:36:44,511 [INFO] ✅ Saved product 108940913 with 4 availabilities.
+2025-05-14 20:37:03,911 [INFO] ✅ Saved product 104032530 with 4 availabilities.
+2025-05-14 20:37:22,635 [INFO] ✅ Saved product 112472338 with 4 availabilities.
+2025-05-14 20:37:38,716 [INFO] ✅ Saved product 112586307 with 4 availabilities.
+2025-05-14 20:38:00,511 [INFO] ✅ Saved product 11975124 with 4 availabilities.
+2025-05-14 20:38:12,788 [INFO] ✅ Saved product 104544389 with 4 availabilities.
+2025-05-14 20:38:29,471 [INFO] ✅ Saved product 104556167 with 4 availabilities.
+2025-05-14 20:38:41,535 [INFO] ✅ Saved product 106227983 with 4 availabilities.
+2025-05-14 20:38:59,226 [INFO] ✅ Saved product 112193587 with 4 availabilities.
+2025-05-14 20:39:17,417 [INFO] ✅ Saved product 105994490 with 4 availabilities.
+2025-05-14 20:39:33,183 [INFO] ✅ Saved product 104040586 with 4 availabilities.
+2025-05-14 20:39:47,979 [INFO] ✅ Saved product 102361431 with 4 availabilities.
+2025-05-14 20:40:06,627 [INFO] ✅ Saved product 111374602 with 4 availabilities.
+2025-05-14 20:40:24,825 [WARNING] ⚠️ No availabilities found for 104021431
+2025-05-14 20:40:24,833 [INFO] ✅ Saved product 104021431 with 0 availabilities.
+2025-05-14 20:40:27,031 [WARNING] 🔐 CAPTCHA or block detected: https://modesens.cn/product/chloe-marcie-sandals-in-leather-eggshell-111719964/
+2025-05-14 21:17:22,267 [INFO] ✅ Saved product 111719964 with 4 availabilities.
+2025-05-14 21:17:45,202 [INFO] ✅ Saved product 107497280 with 4 availabilities.
+2025-05-14 21:17:59,939 [INFO] ✅ Saved product 111793979 with 4 availabilities.
+2025-05-14 21:18:19,155 [INFO] ✅ Saved product 103412036 with 4 availabilities.
+2025-05-14 21:18:32,618 [INFO] ✅ Saved product 110922970 with 4 availabilities.
+2025-05-14 21:18:50,147 [INFO] ✅ Saved product 109831109 with 4 availabilities.
+2025-05-14 21:19:04,211 [INFO] ✅ Saved product 109224475 with 4 availabilities.
+2025-05-14 21:19:19,237 [INFO] ✅ Saved product 113809073 with 4 availabilities.
+2025-05-14 21:19:35,203 [INFO] ✅ Saved product 111496675 with 4 availabilities.
+2025-05-14 21:19:55,134 [INFO] ✅ Saved product 107524146 with 4 availabilities.
+2025-05-14 21:20:15,473 [WARNING] ⚠️ No availabilities found for 111935247
+2025-05-14 21:20:15,479 [INFO] ✅ Saved product 111935247 with 0 availabilities.
+2025-05-14 21:20:17,210 [WARNING] 🔐 CAPTCHA or block detected: https://modesens.cn/product/zimmermann-delicate-floral-print-skirt-with-scalloped-hemline-pink-floral-110492231/
+2025-05-14 21:20:17,399 [WARNING] 🔐 CAPTCHA or block detected: https://modesens.cn/product/zimmermann-delicate-floral-print-skirt-with-scalloped-hemline-pink-floral-110492231/
+2025-05-14 21:20:17,587 [WARNING] 🔐 CAPTCHA or block detected: https://modesens.cn/product/zimmermann-delicate-floral-print-skirt-with-scalloped-hemline-pink-floral-110492231/
+2025-05-14 21:20:17,778 [WARNING] 🔐 CAPTCHA or block detected: https://modesens.cn/product/zimmermann-tallow-printed-silk-wide-leg-pants-multi-104574575/
+2025-05-14 21:20:18,034 [WARNING] 🔐 CAPTCHA or block detected: https://modesens.cn/product/zimmermann-tallow-printed-silk-wide-leg-pants-multi-104574575/
+2025-05-14 21:20:18,407 [WARNING] 🔐 CAPTCHA or block detected: https://modesens.cn/product/zimmermann-tallow-printed-silk-wide-leg-pants-multi-104574575/
+2025-05-14 21:25:41,214 [INFO] ✅ Saved product 109988857 with 4 availabilities.
+2025-05-14 21:25:56,099 [INFO] ✅ Saved product 110580167 with 4 availabilities.
+2025-05-14 21:26:12,074 [INFO] ✅ Saved product 106410638 with 4 availabilities.
+2025-05-14 21:26:25,133 [INFO] ✅ Saved product 114168007 with 4 availabilities.
+2025-05-14 21:26:42,465 [INFO] ✅ Saved product 93943053 with 4 availabilities.
+2025-05-14 21:26:57,751 [INFO] ✅ Saved product 110081737 with 4 availabilities.
+2025-05-14 21:27:16,469 [INFO] ✅ Saved product 106231674 with 4 availabilities.
+2025-05-14 21:27:28,707 [INFO] ✅ Saved product 107286759 with 4 availabilities.
+2025-05-14 21:27:43,854 [INFO] ✅ Saved product 110954577 with 4 availabilities.
+2025-05-14 21:27:55,843 [INFO] ✅ Saved product 105463143 with 4 availabilities.
+2025-05-14 21:28:07,384 [INFO] ✅ Saved product 104270946 with 4 availabilities.
+2025-05-14 21:28:26,016 [INFO] ✅ Saved product 105016447 with 4 availabilities.
+2025-05-14 21:28:44,724 [WARNING] ⚠️ No availabilities found for 103170623
+2025-05-14 21:28:44,730 [INFO] ✅ Saved product 103170623 with 0 availabilities.
+2025-05-14 21:28:47,112 [WARNING] 🔐 CAPTCHA or block detected: https://modesens.cn/product/balmain-beige-embroidered-logo-cotton-blend-top-white-gold-111950698/
+2025-05-14 21:28:47,303 [WARNING] 🔐 CAPTCHA or block detected: https://modesens.cn/product/balmain-beige-embroidered-logo-cotton-blend-top-white-gold-111950698/
+2025-05-14 21:28:47,491 [WARNING] 🔐 CAPTCHA or block detected: https://modesens.cn/product/balmain-beige-embroidered-logo-cotton-blend-top-white-gold-111950698/
+2025-05-14 21:35:12,027 [INFO] ✅ Saved product 111131421 with 4 availabilities.
+2025-05-14 21:35:26,758 [INFO] ✅ Saved product 111374491 with 4 availabilities.
+2025-05-14 21:35:40,913 [INFO] ✅ Saved product 106923911 with 4 availabilities.
+2025-05-14 21:35:55,478 [INFO] ✅ Saved product 59061055 with 4 availabilities.
+2025-05-14 21:36:10,949 [INFO] ✅ Saved product 114047937 with 4 availabilities.
+2025-05-14 21:36:13,023 [INFO] 🔗 Visiting: https://modesens.cn/collections/?page=2
+2025-05-14 21:36:27,741 [INFO] 📦 Page 2 contains 88 products.
+2025-05-14 21:36:38,028 [INFO] ✅ Saved product 114047937 with 4 availabilities.
+2025-05-14 21:36:50,201 [INFO] ✅ Saved product 111077217 with 4 availabilities.
+2025-05-14 21:37:06,922 [INFO] ✅ Saved product 61813409 with 4 availabilities.
+2025-05-14 21:37:22,914 [INFO] ✅ Saved product 113925039 with 4 availabilities.
+2025-05-14 21:37:39,467 [INFO] ✅ Saved product 21867537 with 4 availabilities.
+2025-05-14 21:37:58,019 [WARNING] ⚠️ No availabilities found for 113698088
+2025-05-14 21:37:58,024 [INFO] ✅ Saved product 113698088 with 0 availabilities.
+2025-05-14 21:38:00,546 [WARNING] 🔐 CAPTCHA or block detected: https://modesens.cn/product/balmain-women-high-waist-buttoned-mini-skirt-black-111950705/
+2025-05-14 21:44:54,344 [INFO] ✅ Saved product 111950705 with 4 availabilities.
+2025-05-14 21:45:08,631 [INFO] ✅ Saved product 112051678 with 4 availabilities.
+2025-05-14 21:45:24,147 [INFO] ✅ Saved product 108256149 with 4 availabilities.
+2025-05-14 21:45:37,562 [INFO] ✅ Saved product 113802187 with 4 availabilities.
+2025-05-14 21:45:53,784 [INFO] ✅ Saved product 108747020 with 4 availabilities.
+2025-05-14 21:46:11,210 [INFO] ✅ Saved product 11132898 with 4 availabilities.
+2025-05-14 21:46:25,394 [INFO] ✅ Saved product 114079485 with 4 availabilities.
+2025-05-14 21:46:42,410 [INFO] ✅ Saved product 111261839 with 4 availabilities.
+2025-05-14 21:46:59,103 [INFO] ✅ Saved product 110933732 with 4 availabilities.
+2025-05-14 21:47:16,383 [INFO] ✅ Saved product 106720657 with 4 availabilities.
+2025-05-14 21:47:29,840 [INFO] ✅ Saved product 108188134 with 4 availabilities.
+2025-05-14 21:47:52,128 [WARNING] ⚠️ No availabilities found for 111412592
+2025-05-14 21:47:52,133 [INFO] ✅ Saved product 111412592 with 0 availabilities.
+2025-05-14 21:47:54,100 [WARNING] 🔐 CAPTCHA or block detected: https://modesens.cn/product/zimmermann-crush-belted-twist-front-embellished-floral-print-linen-and-silk-blend-organza-midi-dress-multi-110294183/
+2025-05-14 21:52:45,017 [INFO] ✅ Saved product 110294183 with 4 availabilities.
+2025-05-14 21:53:01,901 [INFO] ✅ Saved product 103267983 with 4 availabilities.
+2025-05-14 21:53:16,304 [INFO] ✅ Saved product 114293226 with 4 availabilities.
+2025-05-14 21:53:37,044 [INFO] ✅ Saved product 110915627 with 4 availabilities.
+2025-05-14 21:53:53,839 [INFO] ✅ Saved product 108440763 with 4 availabilities.
+2025-05-14 21:54:12,560 [INFO] ✅ Saved product 102697060 with 4 availabilities.
+2025-05-14 21:54:31,141 [INFO] ✅ Saved product 38871782 with 4 availabilities.
+2025-05-14 21:54:45,035 [INFO] ✅ Saved product 110879246 with 4 availabilities.
+2025-05-14 21:55:00,130 [INFO] ✅ Saved product 109733924 with 4 availabilities.
+2025-05-14 21:55:17,833 [INFO] ✅ Saved product 111891293 with 4 availabilities.
+2025-05-14 21:55:32,560 [INFO] ✅ Saved product 84168820 with 4 availabilities.
+2025-05-14 21:55:50,351 [INFO] ✅ Saved product 107716296 with 4 availabilities.
+2025-05-14 21:56:11,455 [WARNING] ⚠️ No availabilities found for 113084087
+2025-05-14 21:56:11,460 [INFO] ✅ Saved product 113084087 with 0 availabilities.
+2025-05-14 21:56:13,456 [WARNING] 🔐 CAPTCHA or block detected: https://modesens.cn/product/chloe-women-fluo-pink-tpu-chloe-jelly-thong-sandals-112273904/
+2025-05-14 21:59:10,678 [INFO] ✅ Saved product 112273904 with 4 availabilities.
+2025-05-14 21:59:28,280 [INFO] ✅ Saved product 111077201 with 4 availabilities.
+2025-05-14 21:59:41,301 [INFO] ✅ Saved product 112625366 with 4 availabilities.
+2025-05-14 21:59:55,242 [INFO] ✅ Saved product 108470287 with 4 availabilities.
+2025-05-14 22:00:08,499 [INFO] ✅ Saved product 111374484 with 4 availabilities.
+2025-05-14 22:00:30,657 [INFO] ✅ Saved product 109792348 with 4 availabilities.
+2025-05-14 22:00:48,312 [INFO] ✅ Saved product 110215554 with 4 availabilities.
+2025-05-14 22:01:04,743 [INFO] ✅ Saved product 108256117 with 4 availabilities.
+2025-05-14 22:01:19,552 [INFO] ✅ Saved product 108940594 with 4 availabilities.
+2025-05-14 22:01:36,739 [INFO] ✅ Saved product 111087068 with 4 availabilities.
+2025-05-14 22:01:55,441 [INFO] ✅ Saved product 13171580 with 4 availabilities.
+2025-05-14 22:02:14,446 [INFO] ✅ Saved product 111237792 with 4 availabilities.
+2025-05-14 22:02:38,064 [WARNING] ⚠️ No availabilities found for 105021949
+2025-05-14 22:02:38,070 [INFO] ✅ Saved product 105021949 with 0 availabilities.
+2025-05-14 22:02:40,032 [WARNING] 🔐 CAPTCHA or block detected: https://modesens.cn/product/balmain-sequin-embellished-knitted-mini-skirt-black-106804599/
+2025-05-14 22:06:03,561 [INFO] ✅ Saved product 106804599 with 4 availabilities.
+2025-05-14 22:06:21,661 [INFO] ✅ Saved product 93256733 with 4 availabilities.
+2025-05-14 22:06:38,592 [INFO] ✅ Saved product 104826776 with 4 availabilities.
+2025-05-14 22:06:54,270 [INFO] ✅ Saved product 110141509 with 4 availabilities.
+2025-05-14 22:07:07,164 [INFO] ✅ Saved product 111924406 with 4 availabilities.
+2025-05-14 22:07:21,679 [INFO] ✅ Saved product 105942761 with 4 availabilities.
+2025-05-14 22:07:38,130 [INFO] ✅ Saved product 111853566 with 4 availabilities.
+2025-05-14 22:07:55,818 [INFO] ✅ Saved product 108303461 with 4 availabilities.
+2025-05-14 22:08:14,479 [INFO] ✅ Saved product 103518730 with 4 availabilities.
+2025-05-14 22:08:30,595 [INFO] ✅ Saved product 109013316 with 4 availabilities.
+2025-05-14 22:08:48,385 [INFO] ✅ Saved product 110422188 with 4 availabilities.
+2025-05-14 22:08:50,608 [WARNING] 🔐 CAPTCHA or block detected: https://modesens.cn/product/jean-paul-gaultier-long-sleeved-dress-black-navy-lightblue-106843567/
+2025-05-14 22:13:13,526 [INFO] ✅ Saved product 106843567 with 4 availabilities.
+2025-05-14 22:13:31,127 [INFO] ✅ Saved product 103318415 with 4 availabilities.
+2025-05-14 22:13:47,261 [INFO] ✅ Saved product 111374465 with 4 availabilities.
+2025-05-14 22:14:03,176 [INFO] ✅ Saved product 103267994 with 4 availabilities.
+2025-05-14 22:14:17,126 [INFO] ✅ Saved product 111916277 with 4 availabilities.
+2025-05-14 22:14:35,017 [INFO] ✅ Saved product 111820164 with 4 availabilities.
+2025-05-14 22:14:54,064 [INFO] ✅ Saved product 110306198 with 4 availabilities.
+2025-05-14 22:15:11,376 [INFO] ✅ Saved product 106660557 with 4 availabilities.
+2025-05-14 22:15:29,396 [INFO] ✅ Saved product 112376057 with 4 availabilities.
+2025-05-14 22:15:56,038 [INFO] ✅ Saved product 36984599 with 4 availabilities.
+2025-05-14 22:16:14,774 [INFO] ✅ Saved product 106657391 with 4 availabilities.
+2025-05-14 22:16:16,947 [WARNING] 🔐 CAPTCHA or block detected: https://modesens.cn/product/khaite-scarlet-cashmere-blend-cardigan-barley-21158695/
+2025-05-14 22:21:23,240 [INFO] ✅ Saved product 21158695 with 4 availabilities.
+2025-05-14 22:21:37,230 [INFO] ✅ Saved product 105465877 with 4 availabilities.
+2025-05-14 22:21:38,920 [INFO] 🔗 Visiting: https://modesens.cn/collections/?page=3
+2025-05-14 22:22:04,635 [INFO] 📦 Page 3 contains 88 products.
+2025-05-14 22:22:14,474 [INFO] ✅ Saved product 104826776 with 4 availabilities.
+2025-05-14 22:22:33,035 [INFO] ✅ Saved product 110141509 with 4 availabilities.
+2025-05-14 22:22:49,774 [INFO] ✅ Saved product 111926058 with 4 availabilities.
+2025-05-14 22:23:08,234 [INFO] ✅ Saved product 111924406 with 4 availabilities.
+2025-05-14 22:23:26,018 [INFO] ✅ Saved product 96240687 with 4 availabilities.
+2025-05-14 22:23:39,525 [INFO] ✅ Saved product 111924811 with 4 availabilities.
+2025-05-14 22:23:56,848 [INFO] ✅ Saved product 105942761 with 4 availabilities.
+2025-05-14 22:24:14,851 [INFO] ✅ Saved product 111853566 with 4 availabilities.
+2025-05-14 22:24:32,659 [INFO] ✅ Saved product 108303461 with 4 availabilities.
+2025-05-14 22:24:51,067 [WARNING] ⚠️ No availabilities found for 109582629
+2025-05-14 22:24:51,074 [INFO] ✅ Saved product 109582629 with 0 availabilities.
+2025-05-14 22:25:12,411 [WARNING] ⚠️ No availabilities found for 103518730
+2025-05-14 22:25:12,418 [INFO] ✅ Saved product 103518730 with 0 availabilities.
+2025-05-14 22:25:29,032 [WARNING] ⚠️ No availabilities found for 109013316
+2025-05-14 22:25:29,039 [INFO] ✅ Saved product 109013316 with 0 availabilities.
+2025-05-14 22:25:31,630 [WARNING] 🔐 CAPTCHA or block detected: https://modesens.cn/product/self-portrait-satin-dress-with-3d-flowers-beige-112368227/
+2025-05-14 22:30:41,122 [INFO] ✅ Saved product 112368227 with 4 availabilities.
+2025-05-14 22:30:55,556 [INFO] ✅ Saved product 110422188 with 4 availabilities.
+2025-05-14 22:31:13,249 [INFO] ✅ Saved product 106843567 with 4 availabilities.
+2025-05-14 22:31:27,114 [INFO] ✅ Saved product 103318415 with 4 availabilities.
+2025-05-14 22:31:44,534 [INFO] ✅ Saved product 111315768 with 4 availabilities.
+2025-05-14 22:31:58,618 [INFO] ✅ Saved product 111374465 with 4 availabilities.
+2025-05-14 22:32:12,470 [INFO] ✅ Saved product 110952361 with 4 availabilities.
+2025-05-14 22:32:29,616 [INFO] ✅ Saved product 103267994 with 4 availabilities.
+2025-05-14 22:32:46,139 [INFO] ✅ Saved product 111916277 with 4 availabilities.
+2025-05-14 22:32:58,095 [INFO] ✅ Saved product 111820164 with 4 availabilities.
+2025-05-14 22:33:14,107 [INFO] ✅ Saved product 110306198 with 4 availabilities.
+2025-05-14 22:33:31,131 [WARNING] ⚠️ No availabilities found for 106660557
+2025-05-14 22:33:31,136 [INFO] ✅ Saved product 106660557 with 0 availabilities.
+2025-05-14 22:33:51,906 [WARNING] ⚠️ No availabilities found for 112376057
+2025-05-14 22:33:51,914 [INFO] ✅ Saved product 112376057 with 0 availabilities.
+2025-05-14 22:34:08,428 [WARNING] ⚠️ No availabilities found for 36984599
+2025-05-14 22:34:08,436 [INFO] ✅ Saved product 36984599 with 0 availabilities.
+2025-05-14 22:34:30,043 [WARNING] ⚠️ No availabilities found for 106657391
+2025-05-14 22:34:30,049 [INFO] ✅ Saved product 106657391 with 0 availabilities.
+2025-05-14 22:34:46,016 [WARNING] ⚠️ No availabilities found for 21158695
+2025-05-14 22:34:46,024 [INFO] ✅ Saved product 21158695 with 0 availabilities.
+2025-05-14 22:34:47,875 [WARNING] 🔐 CAPTCHA or block detected: https://modesens.cn/product/chloe-bow-detail-round-toe-flat-sole-ballerina-shoes-black-111417949/
+2025-05-14 22:38:10,935 [INFO] ✅ Saved product 111417949 with 4 availabilities.
+2025-05-14 22:38:25,268 [INFO] ✅ Saved product 105465877 with 4 availabilities.
+2025-05-14 22:38:41,204 [INFO] ✅ Saved product 107497290 with 4 availabilities.
+2025-05-14 22:38:59,564 [INFO] ✅ Saved product 86435372 with 4 availabilities.
+2025-05-14 22:39:18,377 [INFO] ✅ Saved product 65445002 with 4 availabilities.
+2025-05-14 22:39:34,076 [INFO] ✅ Saved product 95448998 with 4 availabilities.
+2025-05-14 22:39:47,392 [INFO] ✅ Saved product 110855193 with 4 availabilities.
+2025-05-14 22:40:05,257 [INFO] ✅ Saved product 109045716 with 4 availabilities.

@@ -1,62 +1,22 @@
-# ModeSens Visual Similarity Matching System
+from PyPDF2 import PdfReader
+import markdownify
+import os
 
-This project automates the extraction of fashion product data from ModeSens and provides a deep learning–based visual similarity search engine. It mimics the “You may also like” feature seen on fashion platforms by comparing product images using image processing and deep learning techniques.
+# Load the PDF
+pdf_path = "/mnt/data/modesens (1).pdf"
+reader = PdfReader(pdf_path)
 
-## 📌 Features
+# Extract all text from the PDF
+full_text = ""
+for page in reader.pages:
+    full_text += page.extract_text() + "\n"
 
-### Task 1: Product Data Extraction
-- Crawls the first 3 pages of https://modesens.cn/collections/ using Selenium.
-- Extracts:
-  - product_id
-  - cover_url (product image)
-  - avail_ids (availability/merchant IDs)
-  - avail_urls (purchase links)
-- Handles captchas, throttling, and logs crawl progress (crawl.log).
-- Outputs:
-  - results/products_final.csv
-  - results/crawl.log
-- Supports recovery via getdata.py for fetching missing product details by ID.
+# Convert the plain text to Markdown using markdownify (although it's plain text)
+markdown_text = markdownify.markdownify(full_text, heading_style="ATX")
 
-### Task 2: Visual Similarity Matching
-- Downloads product images locally.
-- Computes image similarity using:
-  - phash (perceptual hash)
-  - SSIM (structural similarity)
-  - ResNet50 feature vectors + cosine similarity
-- Outputs top-5 visually similar items per product.
-- Generates a fully styled similarity_report.html with:
-  - Main product image
-  - Top 5 similar products
-  - Hover effects and responsive layout
+# Save as README.md
+output_path = "/mnt/data/README.md"
+with open(output_path, "w", encoding="utf-8") as f:
+    f.write(markdown_text)
 
-## 🛠️ Installation
-
-pip install selenium torch torchvision scikit-learn pillow tqdm
-
-## 🚀 How to Run
-
-1. Task 1: Crawl product data
-   python task1.py
-
-2. Task 2: Download images
-   python task2Image.py
-
-3. Compute deep visual similarity
-   python deep_similarity.py
-
-4. Generate HTML viewer
-   python generate_html.py
-
-## 🗂️ Output Files
-- results/products_final.csv: Extracted product metadata
-- results/similarity_results.csv: Top-5 matches for each product
-- images/*.jpg: Cached image files
-- similarity_report.html: Final visual viewer
-
-## 📎 Notes
-- Fully modular: rerun any step independently
-- Handles anti-bot defenses with rate limiting
-- Designed for scalability and extendability
-
-## 🔗 Credits
-Built by Yuliang Peng (https://github.com/ypeng12). Inspired by real-world fashion e-commerce platforms and deep learning visual search systems.
+output_path
